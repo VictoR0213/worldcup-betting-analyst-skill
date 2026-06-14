@@ -12,12 +12,14 @@ Automation window:
 
 ## Active Predictions
 
-| Kickoff Beijing | Fixture | Stage | Top pick | W-D-L Prob. | Score candidates | Rating | Files | Final score | Review |
-|---|---|---|---|---:|---|---:|---|---|---|
-| 2026-06-15 01:00 | Germany vs Curacao | Group E | Germany win | 74-16-10 | 3-0, 4-0, 2-0 | 2 | [MD](2026-06-15-0100-germany-curacao.md) / [JSON](2026-06-15-0100-germany-curacao.json) | TBD | Reserved |
-| 2026-06-15 04:00 | Netherlands vs Japan | Group F | Japan +0.5 / draw-or-away lean | 42-28-30 | 1-1, 2-1, 1-2 | 1 | [MD](2026-06-15-0400-netherlands-japan.md) / [JSON](2026-06-15-0400-netherlands-japan.json) | TBD | Reserved |
-| 2026-06-15 07:00 | Cote d'Ivoire vs Ecuador | Group E | 1 or 2 goals lean | 36-30-34 | 1-1, 1-0, 0-1 | 2 | [MD](2026-06-15-0700-cote-divoire-ecuador.md) / [JSON](2026-06-15-0700-cote-divoire-ecuador.json) | TBD | Reserved |
-| 2026-06-15 10:00 | Sweden vs Tunisia | Group F | Sweden win, weak lean | 48-29-23 | 1-0, 1-1, 2-0 | 2 | [MD](2026-06-15-1000-sweden-tunisia.md) / [JSON](2026-06-15-1000-sweden-tunisia.json) | TBD | Reserved |
+Probability column is ordered by fixture order: left win / draw / right win.
+
+| Kickoff Beijing | Fixture | Stage | Top pick | 90-min probability | First score | Other scores | Rating | Files | Review |
+|---|---|---|---|---|:---:|---|---:|---|---|
+| 2026-06-15 01:00 | Germany vs Curacao | Group E | Germany win | Germany 74% / Draw 16% / Curacao 10% | 3-0 | 4-0, 2-0 | 2 | [MD](2026-06-15-0100-germany-curacao.md) / [JSON](2026-06-15-0100-germany-curacao.json) | TBD |
+| 2026-06-15 04:00 | Netherlands vs Japan | Group F | Japan non-loss watch | Netherlands 42% / Draw 28% / Japan 30% | 1-1 | 2-1, 1-2 | 1 | [MD](2026-06-15-0400-netherlands-japan.md) / [JSON](2026-06-15-0400-netherlands-japan.json) | TBD |
+| 2026-06-15 07:00 | Cote d'Ivoire vs Ecuador | Group E | 1 or 2 goals lean | Cote d'Ivoire 36% / Draw 30% / Ecuador 34% | 1-1 | 1-0, 0-1 | 2 | [MD](2026-06-15-0700-cote-divoire-ecuador.md) / [JSON](2026-06-15-0700-cote-divoire-ecuador.json) | TBD |
+| 2026-06-15 10:00 | Sweden vs Tunisia | Group F | Sweden win, weak lean | Sweden 48% / Draw 29% / Tunisia 23% | 1-0 | 1-1, 2-0 | 2 | [MD](2026-06-15-1000-sweden-tunisia.md) / [JSON](2026-06-15-1000-sweden-tunisia.json) | TBD |
 
 ## Post-Match Review Template
 

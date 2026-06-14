@@ -2,7 +2,7 @@
 
 # FIFA World Cup 2026 赛前预测看板
 
-<strong>赛前 24 小时滚动预测 · 中文优先 · 赛后可复盘</strong>
+<strong>中文优先 · 90 分钟概率 · 第一比分 + 候选比分 · 赛后复盘预留</strong>
 
 <br>
 
@@ -13,26 +13,71 @@
 
 </div>
 
-> 风险边界：以下预测是赛前概率判断，不承诺收益。中国竞彩官方赔率本轮未核验，JSON 中官方赔率字段保留为 `null` / `unconfirmed`。
+> **读表说明**：`90分钟概率` 按对阵顺序读取，`左胜` = 左侧球队在 90 分钟内获胜，`平` = 90 分钟打平，`右胜` = 右侧球队获胜。它是概率判断，不是比分，也不是赔率。中国竞彩官方赔率本轮未核验，JSON 中官方赔率字段保留为 `null` / `unconfirmed`。
 
 ## 中文预测表
 
-| 北京时间 | 对阵 | 组别 | 主方向 | 胜 / 平 / 负 | 比分候选 | 信心 | 文件 | 赛后复盘 |
-|---|---|:---:|---|:---:|---|:---:|---|---|
-| <strong>06-15<br>01:00</strong> | <strong>德国 vs 库拉索</strong><br><sub>Houston Stadium</sub> | E | 德国胜 | <strong>74 / 16 / 10</strong> | <code>3-0</code> <code>4-0</code> <code>2-0</code> | <kbd>2/4</kbd><br><sub>方向倾向</sub> | [中文分析](predictions/2026-06-15-0100-germany-curacao.md) · [JSON](predictions/2026-06-15-0100-germany-curacao.json) | 待填<br><sub>赛果 / 命中 / 偏差</sub> |
-| <strong>06-15<br>04:00</strong> | <strong>荷兰 vs 日本</strong><br><sub>Dallas Stadium</sub> | F | 日本受让 / 不败观察 | <strong>42 / 28 / 30</strong> | <code>1-1</code> <code>2-1</code> <code>1-2</code> | <kbd>1/4</kbd><br><sub>观察为主</sub> | [中文分析](predictions/2026-06-15-0400-netherlands-japan.md) · [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | 待填<br><sub>赛果 / 命中 / 偏差</sub> |
-| <strong>06-15<br>07:00</strong> | <strong>科特迪瓦 vs 厄瓜多尔</strong><br><sub>Philadelphia Stadium</sub> | E | 1-2 球区间 | <strong>36 / 30 / 34</strong> | <code>1-1</code> <code>1-0</code> <code>0-1</code> | <kbd>2/4</kbd><br><sub>小球倾向</sub> | [中文分析](predictions/2026-06-15-0700-cote-divoire-ecuador.md) · [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | 待填<br><sub>赛果 / 命中 / 偏差</sub> |
-| <strong>06-15<br>10:00</strong> | <strong>瑞典 vs 突尼斯</strong><br><sub>Estadio Monterrey</sub> | F | 瑞典胜弱倾向 | <strong>48 / 29 / 23</strong> | <code>1-0</code> <code>1-1</code> <code>2-0</code> | <kbd>2/4</kbd><br><sub>方向倾向</sub> | [中文分析](predictions/2026-06-15-1000-sweden-tunisia.md) · [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | 待填<br><sub>赛果 / 命中 / 偏差</sub> |
+<table>
+  <thead>
+    <tr>
+      <th align="center">开球</th>
+      <th align="left">比赛</th>
+      <th align="left">主方向</th>
+      <th align="left">90分钟概率</th>
+      <th align="center">第一比分</th>
+      <th align="left">候选比分</th>
+      <th align="left">赛后复盘</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>06-15</strong><br><strong>01:00</strong><br><sub>E组</sub></td>
+      <td><strong>德国 vs 库拉索</strong><br><sub>Houston Stadium</sub><br><a href="predictions/2026-06-15-0100-germany-curacao.md">中文分析</a> · <a href="predictions/2026-06-15-0100-germany-curacao.json">JSON</a></td>
+      <td><strong>德国胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
+      <td><strong>德国胜 74%</strong><br><sub>平 16% · 库拉索胜 10%</sub></td>
+      <td align="center"><code>3-0</code></td>
+      <td><code>4-0</code> <code>2-0</code><br><sub>比分高波动，仅作参考</sub></td>
+      <td>待填<br><sub>赛果 / 命中 / 偏差</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>06-15</strong><br><strong>04:00</strong><br><sub>F组</sub></td>
+      <td><strong>荷兰 vs 日本</strong><br><sub>Dallas Stadium</sub><br><a href="predictions/2026-06-15-0400-netherlands-japan.md">中文分析</a> · <a href="predictions/2026-06-15-0400-netherlands-japan.json">JSON</a></td>
+      <td><strong>日本不败观察</strong><br><sub>信心 1/4 · 观察为主</sub></td>
+      <td><strong>荷兰胜 42%</strong><br><sub>平 28% · 日本胜 30%</sub></td>
+      <td align="center"><code>1-1</code></td>
+      <td><code>2-1</code> <code>1-2</code><br><sub>比分高波动，仅作参考</sub></td>
+      <td>待填<br><sub>赛果 / 命中 / 偏差</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>06-15</strong><br><strong>07:00</strong><br><sub>E组</sub></td>
+      <td><strong>科特迪瓦 vs 厄瓜多尔</strong><br><sub>Philadelphia Stadium</sub><br><a href="predictions/2026-06-15-0700-cote-divoire-ecuador.md">中文分析</a> · <a href="predictions/2026-06-15-0700-cote-divoire-ecuador.json">JSON</a></td>
+      <td><strong>1-2 球区间</strong><br><sub>信心 2/4 · 小球倾向</sub></td>
+      <td><strong>科特迪瓦胜 36%</strong><br><sub>平 30% · 厄瓜多尔胜 34%</sub></td>
+      <td align="center"><code>1-1</code></td>
+      <td><code>1-0</code> <code>0-1</code><br><sub>比分高波动，仅作参考</sub></td>
+      <td>待填<br><sub>赛果 / 命中 / 偏差</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>06-15</strong><br><strong>10:00</strong><br><sub>F组</sub></td>
+      <td><strong>瑞典 vs 突尼斯</strong><br><sub>Estadio Monterrey</sub><br><a href="predictions/2026-06-15-1000-sweden-tunisia.md">中文分析</a> · <a href="predictions/2026-06-15-1000-sweden-tunisia.json">JSON</a></td>
+      <td><strong>瑞典胜弱倾向</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
+      <td><strong>瑞典胜 48%</strong><br><sub>平 29% · 突尼斯胜 23%</sub></td>
+      <td align="center"><code>1-0</code></td>
+      <td><code>1-1</code> <code>2-0</code><br><sub>比分高波动，仅作参考</sub></td>
+      <td>待填<br><sub>赛果 / 命中 / 偏差</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
 <summary><strong>English prediction board</strong></summary>
 
-| Kickoff (BJT) | Fixture | Group | Main Lean | W / D / L | Score Candidates | Confidence | Files | Review Slot |
-|---|---|:---:|---|:---:|---|:---:|---|---|
-| <strong>06-15<br>01:00</strong> | <strong>Germany vs Curacao</strong><br><sub>Houston Stadium</sub> | E | Germany win | <strong>74 / 16 / 10</strong> | <code>3-0</code> <code>4-0</code> <code>2-0</code> | <kbd>2/4</kbd><br><sub>lean</sub> | [Preview](predictions/2026-06-15-0100-germany-curacao.md) · [JSON](predictions/2026-06-15-0100-germany-curacao.json) | TBD |
-| <strong>06-15<br>04:00</strong> | <strong>Netherlands vs Japan</strong><br><sub>Dallas Stadium</sub> | F | Japan +0.5 / draw-or-away watch | <strong>42 / 28 / 30</strong> | <code>1-1</code> <code>2-1</code> <code>1-2</code> | <kbd>1/4</kbd><br><sub>watch</sub> | [Preview](predictions/2026-06-15-0400-netherlands-japan.md) · [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | TBD |
-| <strong>06-15<br>07:00</strong> | <strong>Cote d'Ivoire vs Ecuador</strong><br><sub>Philadelphia Stadium</sub> | E | 1-2 goals lean | <strong>36 / 30 / 34</strong> | <code>1-1</code> <code>1-0</code> <code>0-1</code> | <kbd>2/4</kbd><br><sub>lean</sub> | [Preview](predictions/2026-06-15-0700-cote-divoire-ecuador.md) · [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | TBD |
-| <strong>06-15<br>10:00</strong> | <strong>Sweden vs Tunisia</strong><br><sub>Estadio Monterrey</sub> | F | Sweden win, weak lean | <strong>48 / 29 / 23</strong> | <code>1-0</code> <code>1-1</code> <code>2-0</code> | <kbd>2/4</kbd><br><sub>lean</sub> | [Preview](predictions/2026-06-15-1000-sweden-tunisia.md) · [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | TBD |
+| Kickoff | Fixture | Main lean | 90-min probability | First score | Other scores | Review |
+|---|---|---|---|:---:|---|---|
+| **06-15**<br>**01:00**<br><sub>Group E</sub> | **Germany vs Curacao**<br><sub>Houston Stadium</sub><br>[Preview](predictions/2026-06-15-0100-germany-curacao.md) · [JSON](predictions/2026-06-15-0100-germany-curacao.json) | **Germany win**<br><sub>2/4 lean</sub> | **Germany 74%**<br><sub>Draw 16% · Curacao 10%</sub> | <code>3-0</code> | <code>4-0</code> <code>2-0</code> | TBD |
+| **06-15**<br>**04:00**<br><sub>Group F</sub> | **Netherlands vs Japan**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-15-0400-netherlands-japan.md) · [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | **Japan non-loss watch**<br><sub>1/4 watch</sub> | **Netherlands 42%**<br><sub>Draw 28% · Japan 30%</sub> | <code>1-1</code> | <code>2-1</code> <code>1-2</code> | TBD |
+| **06-15**<br>**07:00**<br><sub>Group E</sub> | **Cote d'Ivoire vs Ecuador**<br><sub>Philadelphia Stadium</sub><br>[Preview](predictions/2026-06-15-0700-cote-divoire-ecuador.md) · [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | **1-2 goals lean**<br><sub>2/4 lean</sub> | **Cote d'Ivoire 36%**<br><sub>Draw 30% · Ecuador 34%</sub> | <code>1-1</code> | <code>1-0</code> <code>0-1</code> | TBD |
+| **06-15**<br>**10:00**<br><sub>Group F</sub> | **Sweden vs Tunisia**<br><sub>Estadio Monterrey</sub><br>[Preview](predictions/2026-06-15-1000-sweden-tunisia.md) · [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | **Sweden weak win lean**<br><sub>2/4 lean</sub> | **Sweden 48%**<br><sub>Draw 29% · Tunisia 23%</sub> | <code>1-0</code> | <code>1-1</code> <code>2-0</code> | TBD |
 
 </details>
 
