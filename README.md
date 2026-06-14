@@ -1,3 +1,20 @@
+# FIFA World Cup 2026 Prediction Board
+
+Updated: 2026-06-14 12:28 +08:00
+
+> Match forecasts are probability notes, not guaranteed outcomes. China Sporttery prices were not verified in this run, so prediction JSON files keep official odds as `null` / `unconfirmed`.
+
+| Kickoff (BJT) | Fixture | Group | Main Lean | W-D-L Prob. | Correct Score Candidates | Confidence | Prediction Files | Final Score | Review |
+|---|---|---:|---|---:|---|---|---|---|---|
+| 2026-06-15 01:00 | Germany vs Curacao | E | Germany win | 74-16-10 | 3-0, 4-0, 2-0 | Lean 2/4 | [MD](predictions/2026-06-15-0100-germany-curacao.md) / [JSON](predictions/2026-06-15-0100-germany-curacao.json) | TBD | Reserved |
+| 2026-06-15 04:00 | Netherlands vs Japan | F | Japan +0.5 / draw-or-away lean | 42-28-30 | 1-1, 2-1, 1-2 | Watch 1/4 | [MD](predictions/2026-06-15-0400-netherlands-japan.md) / [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | TBD | Reserved |
+| 2026-06-15 07:00 | Cote d'Ivoire vs Ecuador | E | 1 or 2 goals lean | 36-30-34 | 1-1, 1-0, 0-1 | Lean 2/4 | [MD](predictions/2026-06-15-0700-cote-divoire-ecuador.md) / [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | TBD | Reserved |
+| 2026-06-15 10:00 | Sweden vs Tunisia | F | Sweden win, weak lean | 48-29-23 | 1-0, 1-1, 2-0 | Lean 2/4 | [MD](predictions/2026-06-15-1000-sweden-tunisia.md) / [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | TBD | Reserved |
+
+Post-match review fields are reserved for: actual score, 90-minute W/D/L result, top-pick hit/miss, correct-score hit/miss, variance notes, and evidence updates. Full prediction index: [predictions/index.md](predictions/index.md).
+
+---
+
 # World Cup Betting Analyst
 
 Evidence-backed World Cup football analysis for Chinese Sporttery-style markets, built as a Codex Skill.

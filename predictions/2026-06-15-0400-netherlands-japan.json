@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-06-14T12:28:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "future_24h_backfill",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group F, matchday 1",
+    "home_team": "Netherlands",
+    "away_team": "Japan",
+    "kickoff_beijing": "2026-06-15T04:00:00+08:00",
+    "kickoff_local": "2026-06-14T15:00:00-05:00",
+    "stadium": "Dallas Stadium / AT&T Stadium",
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  "venue_weather": {
+    "temperature_c": null,
+    "humidity_pct": null,
+    "wind_kph": null,
+    "precipitation": "unconfirmed exact hourly forecast",
+    "altitude_m": null,
+    "impact": "low if Dallas Stadium roof/climate control is used; otherwise Texas heat would raise tempo-management risk"
+  },
+  "probabilities": {
+    "home_win": 42,
+    "draw": 28,
+    "away_win": 30
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "home_win_slight_lean",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "Netherlands are still the stronger squad, but Japan's press, form indicators and Dutch injury notes make this a narrow read."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "Japan_plus_0_5_if_available",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "The best risk-adjusted angle is avoiding a full Netherlands win dependency, but Sporttery line and price were not verified."
+    },
+    "correct_score": [
+      {
+        "score": "1-1",
+        "confidence": "low",
+        "reason": "Balances Dutch individual quality with Japan's ability to disrupt favorites."
+      },
+      {
+        "score": "2-1",
+        "confidence": "low",
+        "reason": "Netherlands edge if set pieces or wide attacks decide the match."
+      },
+      {
+        "score": "1-2",
+        "confidence": "low",
+        "reason": "Japan upset path through transition speed and Dutch attacking absences."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "2 goals",
+        "confidence": "medium",
+        "reason": "Both teams have enough structure to keep this from becoming open too early."
+      },
+      {
+        "selection": "3 goals",
+        "confidence": "medium",
+        "reason": "Japan's pressing and transition game can create a higher-event second half."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "draw/draw",
+        "confidence": "low",
+        "reason": "First group match plus tactical respect can delay risk-taking."
+      },
+      {
+        "selection": "draw/home",
+        "confidence": "low",
+        "reason": "Netherlands depth can matter late if Japan's press fades."
+      },
+      {
+        "selection": "draw/away",
+        "confidence": "low",
+        "reason": "Japan's best upset path may come through second-half transition moments."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "handicap",
+    "selection": "Japan +0.5 / draw-or-away lean if market offers acceptable price",
+    "odds": null,
+    "rating": 1,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more",
+      "venue_crosscheck": "https://www.axios.com/local/dallas/2026/06/08/dallas-world-cup-branding",
+      "notes": "Readable sources list Netherlands vs Japan on 2026-06-14 at 16:00 Eastern / 15:00 Dallas local."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-14T12:28:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "The Sun / Playzee comparison",
+          "market": "Draw or Japan double chance",
+          "odds": "7/10",
+          "decimal_odds": 1.7,
+          "url": "https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/",
+          "note": "International comparison only, not Sporttery."
+        },
+        {
+          "source": "New York Post group preview",
+          "market": "Group F winner",
+          "odds": "Netherlands -125, Japan +250",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outrights only, not match odds."
+        }
+      ]
+    },
+    "team_news": [
+      "Netherlands are built around Virgil van Dijk, Frenkie de Jong and Cody Gakpo/Depay attacking routes, but multiple previews flag injury losses or doubts including Jurrien Timber and Xavi Simons.",
+      "Japan are described as fast, technical and high-pressing, with Takefusa Kubo, Wataru Endo, Takehiro Tomiyasu and Zion Suzuki among the core names.",
+      "Japan's recent form indicators and historical wins over elite sides are why the away/draw protection is preferred over a pure upset pick."
+    ],
+    "weather_venue": [
+      "Dallas Stadium is a retractable-roof NFL venue; exact match climate/weather status was not confirmed.",
+      "General World Cup weather coverage flags heat, humidity and storms as tournament-wide risks, but indoor conditions should mute direct impact if closed."
+    ],
+    "historical_structural": [
+      "Netherlands are three-time World Cup finalists and the stronger historical football nation.",
+      "Japan have become a consistent World Cup knockout-level side and are no longer a simple underdog profile.",
+      "First group match with both teams likely treating one point as useful, raising draw probability."
+    ]
+  },
+  "risks": [
+    "Sporttery odds, handicap line and single-match status unavailable.",
+    "Dutch injury reports are source-dependent and need official XI confirmation.",
+    "Japan press can either create chances or leave space behind if the Netherlands beat it.",
+    "A first-match tactical stalemate can make all correct-score picks fragile."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed Netherlands injury replacements and starting XI",
+    "Confirmed Japan starting wing-back/forward choices",
+    "Roof and climate-control status at Dallas Stadium"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}

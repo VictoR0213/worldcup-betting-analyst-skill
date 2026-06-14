@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-06-14T12:28:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "future_24h_backfill",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group E, matchday 1",
+    "home_team": "Cote d'Ivoire",
+    "away_team": "Ecuador",
+    "kickoff_beijing": "2026-06-15T07:00:00+08:00",
+    "kickoff_local": "2026-06-14T19:00:00-04:00",
+    "stadium": "Philadelphia Stadium / Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  "venue_weather": {
+    "temperature_c": null,
+    "humidity_pct": null,
+    "wind_kph": null,
+    "precipitation": "unconfirmed exact hourly forecast",
+    "altitude_m": null,
+    "impact": "medium uncertainty: outdoor venue; monitor thunderstorms/heat, but exact kickoff forecast was not verified"
+  },
+  "probabilities": {
+    "home_win": 36,
+    "draw": 30,
+    "away_win": 34
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "draw",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "The teams grade close enough that draw is a live result, but the WDL market cannot be priced without verified odds."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "home_draw_no_bet_or_Ecuador_plus_if_price_supports",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "Ivory Coast have higher transition punch, Ecuador have the sturdier defensive base; official line is missing."
+    },
+    "correct_score": [
+      {
+        "score": "1-1",
+        "confidence": "low",
+        "reason": "Best match for two compact teams with one clear attacking moment each."
+      },
+      {
+        "score": "1-0",
+        "confidence": "low",
+        "reason": "Ivory Coast edge if Kessie-led midfield control and transition power decide it."
+      },
+      {
+        "score": "0-1",
+        "confidence": "low",
+        "reason": "Ecuador path through defensive control, Caicedo ball-winning and a Valencia/Páez moment."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "1 goal",
+        "confidence": "low",
+        "reason": "Ecuador's structure and opener caution can suppress shot volume."
+      },
+      {
+        "selection": "2 goals",
+        "confidence": "medium",
+        "reason": "Most balanced goal band given both teams' defensive incentives."
+      },
+      {
+        "selection": "3 goals",
+        "confidence": "low",
+        "reason": "Requires game-state opening after the first goal."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "draw/draw",
+        "confidence": "low",
+        "reason": "A cagey first half and shared points are plausible."
+      },
+      {
+        "selection": "draw/home",
+        "confidence": "low",
+        "reason": "Ivory Coast late athletic edge is the home-order win path."
+      },
+      {
+        "selection": "draw/away",
+        "confidence": "low",
+        "reason": "Ecuador's best path is staying level then winning a low-margin second half."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "total_goals",
+    "selection": "1 or 2 goals lean",
+    "odds": null,
+    "rating": 2,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more",
+      "venue_crosscheck": "https://en.wikipedia.org/wiki/Lincoln_Financial_Field",
+      "notes": "Readable sources list Ivory Coast/Cote d'Ivoire vs Ecuador on 2026-06-14 at 19:00 Eastern in Philadelphia."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-14T12:28:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "The Sun / Playzee comparison",
+          "market": "Ivory Coast draw-no-bet and BTTS No mentioned as tips",
+          "odds": null,
+          "decimal_odds": null,
+          "url": "https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/",
+          "note": "Selection notes only; no verified price captured from accessible text."
+        },
+        {
+          "source": "New York Post group preview",
+          "market": "Group E winner",
+          "odds": "Ivory Coast +600, Ecuador +350",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outrights only, not match odds."
+        }
+      ]
+    },
+    "team_news": [
+      "Ivory Coast are framed as an athletic, fast-paced side under Emerse Fae, with Franck Kessie a key midfield reference.",
+      "Ecuador under Sebastian Beccacece are described as more defensive and grinding, built around Moises Caicedo, with Enner Valencia and Kendry Paez as attacking outlets.",
+      "No confirmed matchday lineups or late suspensions were verified."
+    ],
+    "weather_venue": [
+      "Philadelphia Stadium/Lincoln Financial Field is an outdoor venue; exact kickoff weather was not verified.",
+      "Tournament-wide weather reporting flags heat, humidity and thunderstorms as risks in central/eastern North America."
+    ],
+    "historical_structural": [
+      "Ivory Coast return to the World Cup after missing recent editions and carry AFCON-era momentum.",
+      "Ecuador have recent World Cup continuity and a defensive identity, but limited scoring margin.",
+      "Group E contains a heavy favorite in Germany, so this match is structurally important for second/third-place positioning."
+    ]
+  },
+  "risks": [
+    "Verified Sporttery prices and official market status unavailable.",
+    "Outdoor weather and storm risk were not pinned to exact kickoff conditions.",
+    "One early goal could flip the match from low-total to transition-heavy.",
+    "Both teams have enough physicality for cards/set pieces to become decisive."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed starting lineups",
+    "Exact Philadelphia kickoff weather",
+    "Late tactical setup for both coaches"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}

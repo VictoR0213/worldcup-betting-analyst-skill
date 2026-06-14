@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-06-14T12:28:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "future_24h_backfill",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group E, matchday 1",
+    "home_team": "Germany",
+    "away_team": "Curacao",
+    "kickoff_beijing": "2026-06-15T01:00:00+08:00",
+    "kickoff_local": "2026-06-14T12:00:00-05:00",
+    "stadium": "Houston Stadium / NRG Stadium",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  "venue_weather": {
+    "temperature_c": null,
+    "humidity_pct": null,
+    "wind_kph": null,
+    "precipitation": "unconfirmed; Houston sources flag weekend heat/humidity and rising Gulf moisture risk after the match window",
+    "altitude_m": null,
+    "impact": "low-to-medium: NRG Stadium is an indoor/retractable-roof venue, so player impact should be reduced if climate control is used; travel/fan-fest heat remains material"
+  },
+  "probabilities": {
+    "home_win": 74,
+    "draw": 16,
+    "away_win": 10
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "home_win",
+      "odds": null,
+      "confidence": "medium",
+      "single_allowed": null,
+      "reason": "Germany have the clearest strength edge on the slate, but verified Sporttery odds and starting XIs were unavailable in this run."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "home_handicap_win_only_if_price_and_line_are_reasonable",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "A multi-goal Germany win is plausible, but Curacao's qualifying defensive record and unknown official line make handicap risk hard to price."
+    },
+    "correct_score": [
+      {
+        "score": "3-0",
+        "confidence": "low",
+        "reason": "Best fit for Germany control plus limited Curacao chance creation."
+      },
+      {
+        "score": "4-0",
+        "confidence": "low",
+        "reason": "Upside scenario if Germany score early and sustain pressure."
+      },
+      {
+        "score": "2-0",
+        "confidence": "low",
+        "reason": "Covers a lower-tempo version if Germany manage the game after leading."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "3 goals",
+        "confidence": "medium",
+        "reason": "Germany's attacking depth points above a low-total game, but opener caution remains possible."
+      },
+      {
+        "selection": "4 goals",
+        "confidence": "low",
+        "reason": "Market comparison tips point toward goals, but correct margin and tempo are volatile."
+      },
+      {
+        "selection": "5+ goals",
+        "confidence": "low",
+        "reason": "Requires an early breakthrough and Curacao fatigue or defensive collapse."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "home/home",
+        "confidence": "medium",
+        "reason": "If Germany's press lands early, the match can be decided before halftime."
+      },
+      {
+        "selection": "draw/home",
+        "confidence": "low",
+        "reason": "Group openers can start cautiously before favorites separate."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "win_draw_loss",
+    "selection": "Germany win",
+    "odds": null,
+    "rating": 2,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more",
+      "venue_crosscheck": "https://www.houstonchronicle.com/world-cup/article/germany-curacao-preview-world-cup-2026-22303968.php",
+      "notes": "Readable sources list Germany vs Curacao on 2026-06-14 at 12:00 Houston local / 13:00 Eastern."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-14T12:28:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "The Sun / Playzee comparison",
+          "market": "Germany vs Curacao over 4.5 goals",
+          "odds": "21/20",
+          "decimal_odds": 2.05,
+          "url": "https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/",
+          "note": "International comparison only, not Sporttery."
+        },
+        {
+          "source": "New York Post group preview",
+          "market": "Group E winner",
+          "odds": "Germany -230, Curacao 120/1",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outrights only, not match odds."
+        }
+      ]
+    },
+    "team_news": [
+      "Germany are described as relying on Manuel Neuer, Joshua Kimmich, Florian Wirtz and Jamal Musiala; Musiala fitness is a monitoring point.",
+      "Curacao make their World Cup debut under Dick Advocaat, with Leandro/Juninho Bacuna and Gervane Kastaneer noted as key pieces.",
+      "Curacao's final qualifying defensive record is a reason not to overstate handicap confidence."
+    ],
+    "weather_venue": [
+      "Houston sources flag hot, humid conditions and possible Gulf moisture; exact hourly stadium weather was not confirmed.",
+      "NRG Stadium/Houston Stadium is an indoor/retractable-roof venue, reducing direct heat/wind impact if closed."
+    ],
+    "historical_structural": [
+      "Germany are four-time World Cup winners but have recent group-stage disappointment to correct.",
+      "Curacao are a debutant and the smallest nation to qualify, creating a major experience and depth gap.",
+      "First group match: motivation is clear for both; no qualification math yet."
+    ]
+  },
+  "risks": [
+    "Verified Sporttery prices and official single-match status unavailable.",
+    "Germany starting XI and Musiala workload can change the goal ceiling.",
+    "Large favorite handicaps are vulnerable if Germany stop pushing after a two-goal lead.",
+    "Curacao's compact defending could keep the score lower than the strength gap suggests."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed starting lineups",
+    "Exact in-stadium climate-control/weather status",
+    "Late injury or rotation updates"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}
