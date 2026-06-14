@@ -1,0 +1,6 @@
+interface:
+  display_name: "World Cup Betting Analyst"
+  short_description: "Analyze World Cup football markets with risk controls"
+  default_prompt: "Use $worldcup-betting-analyst to analyze a World Cup match across win/draw/loss, handicap, correct score, total goals, half/full-time, and parlays."
+policy:
+  allow_implicit_invocation: true
