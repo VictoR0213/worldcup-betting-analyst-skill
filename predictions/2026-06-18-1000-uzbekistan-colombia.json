@@ -1,0 +1,168 @@
+{
+  "generated_at": "2026-06-17T10:41:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "next_matchday",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group K, matchday 1",
+    "home_team": "Uzbekistan",
+    "away_team": "Colombia",
+    "kickoff_beijing": "2026-06-18T10:00:00+08:00",
+    "kickoff_local": "2026-06-17T20:00:00-06:00",
+    "stadium": "Mexico City Stadium / Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  "venue_weather": {
+    "temperature_c": null,
+    "humidity_pct": null,
+    "wind_kph": null,
+    "precipitation": "exact hourly forecast unconfirmed; Mexico City altitude is the confirmed material venue factor",
+    "altitude_m": 2200,
+    "impact": "medium: high altitude can reduce sprint recovery and slow late-game tempo"
+  },
+  "probabilities": {
+    "home_win": 17,
+    "draw": 27,
+    "away_win": 56
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "away_win",
+      "odds": null,
+      "confidence": "medium",
+      "single_allowed": null,
+      "reason": "Colombia have the stronger attack and squad depth, but Uzbekistan's low block and altitude keep upset/draw risk alive."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "avoid_deep_away_handicap_without_price",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "A narrow Colombia win is more robust than asking them to clear a large margin against a compact debutant."
+    },
+    "correct_score": [
+      {
+        "score": "0-1",
+        "confidence": "low",
+        "reason": "Best fit for Colombia edge against a disciplined Uzbekistan block."
+      },
+      {
+        "score": "1-1",
+        "confidence": "low",
+        "reason": "Uzbekistan can score through Shomurodov or a set-piece/transition moment."
+      },
+      {
+        "score": "0-2",
+        "confidence": "low",
+        "reason": "Colombia upside if Diaz and James create early separation."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "1 or 2 goals",
+        "confidence": "medium",
+        "reason": "Uzbekistan are expected to defend deep and Mexico City altitude can reduce late tempo."
+      },
+      {
+        "selection": "3 goals",
+        "confidence": "low",
+        "reason": "Requires an early Colombia goal or a game-state chase."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "draw/away",
+        "confidence": "low",
+        "reason": "Colombia can grow into the game after testing Uzbekistan's block."
+      },
+      {
+        "selection": "away/away",
+        "confidence": "low",
+        "reason": "Only if Colombia's first-half wing pressure lands early."
+      },
+      {
+        "selection": "draw/draw",
+        "confidence": "low",
+        "reason": "A compact Uzbekistan plan can hold if Colombia lack finishing precision."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "win_draw_loss",
+    "selection": "Colombia win",
+    "odds": null,
+    "rating": 2,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://elpais.com/america-colombia/2026-06-17/seleccion-colombia-en-el-mundial-2026-rivales-horarios-y-donde-ver-los-partidos-de-copa-del-mundo.html",
+      "venue_crosscheck": "https://en.wikipedia.org/wiki/Estadio_Azteca",
+      "notes": "Colombian coverage lists Colombia vs Uzbekistan at 21:00 Colombia time, corresponding to 20:00 Mexico City local time."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-17T10:41:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "NY Post Group K preview",
+          "market": "Group K winner",
+          "odds": "Colombia +200, Uzbekistan 35/1",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outrights only, not match odds or Sporttery."
+        }
+      ]
+    },
+    "team_news": [
+      "Nestor Lorenzo said all Colombia players, including Jhon Cordoba, are in good physical condition and stressed that there are no small teams.",
+      "Luis Diaz and James Rodriguez are Colombia's highest-profile creative leaders.",
+      "Uzbekistan are World Cup debutants under Fabio Cannavaro, with Abdukodir Khusanov and Eldor Shomurodov as key players.",
+      "Jaloliddin Masharipov has been noted as carrying a back issue."
+    ],
+    "weather_venue": [
+      "Estadio Azteca/Mexico City Stadium sits around 2,200 metres above sea level.",
+      "Exact kickoff temperature, humidity, wind and precipitation values were not verified in this run.",
+      "The stadium is outdoors with a hybrid grass surface after World Cup renovations."
+    ],
+    "historical_structural": [
+      "Uzbekistan and Colombia have never met before.",
+      "Uzbekistan are the first Central Asian nation to reach the World Cup.",
+      "Colombia return after missing 2022 and have a high-ceiling attack but some defensive volatility."
+    ]
+  },
+  "risks": [
+    "Official China Sporttery prices and single-match status unavailable.",
+    "Colombia can become vulnerable if fullbacks push high and lose transition control.",
+    "Uzbekistan's debut energy and compact shape can keep the match close.",
+    "Mexico City altitude can change late-game tempo and finishing."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed starting lineups",
+    "Masharipov's final availability",
+    "Exact Mexico City kickoff weather"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}

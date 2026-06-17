@@ -37,6 +37,15 @@
 
 瑞典的问题是进攻名气和实战串联未必一致；突尼斯的问题是守得住但未必有足够反击质量。若蒙特雷热度明显，比赛节奏可能进一步下降。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：瑞典 5-1 突尼斯。
+- 90 分钟结果：瑞典胜。
+- 主方向：命中；瑞典胜方向正确，但强度被明显低估。
+- 比分：未命中；原第一比分 1-0 和候选 1-1、2-0 都低估了瑞典锋线转化率和突尼斯防线崩盘。
+- 偏差原因：瑞典进攻端由 Gyokeres、Isak、Elanga 等点持续制造高质量机会，突尼斯失误和防线承压程度超出赛前低比分假设。
+- 复盘时间：2026-06-17 10:41 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -44,3 +53,5 @@
 - [NY Post Group F preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/)
 - [The Sun betting comparison](https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/)
 - [Estadio BBVA venue cross-check](https://en.wikipedia.org/wiki/Estadio_BBVA)
+- [The Times coaching update](https://www.thetimes.com/sport/football/world-cup/article/sabri-lamouchi-tunisia-manager-sacked-sweden-fifa-world-cup-2026-rztd7pj3d)
+- [AP tournament update](https://apnews.com/article/94a3ba298b30a7d6314b00b20cd455ae)

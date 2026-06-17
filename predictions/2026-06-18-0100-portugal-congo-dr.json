@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-06-17T10:41:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "next_matchday",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group K, matchday 1",
+    "home_team": "Portugal",
+    "away_team": "Congo DR",
+    "kickoff_beijing": "2026-06-18T01:00:00+08:00",
+    "kickoff_local": "2026-06-17T12:00:00-05:00",
+    "stadium": "Houston Stadium / NRG Stadium",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  "venue_weather": {
+    "temperature_c": null,
+    "humidity_pct": null,
+    "wind_kph": null,
+    "precipitation": "heavy rain and severe thunderstorm/flash-flood risk around Houston; match expected to proceed under closed roof",
+    "altitude_m": 13,
+    "impact": "low-to-medium for on-pitch play because NRG Stadium has a retractable roof; medium for travel, warm-up logistics and crowd movement"
+  },
+  "probabilities": {
+    "home_win": 65,
+    "draw": 22,
+    "away_win": 13
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "home_win",
+      "odds": null,
+      "confidence": "medium",
+      "single_allowed": null,
+      "reason": "Portugal have the stronger squad and midfield control, but verified Sporttery prices and starting XIs were unavailable."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "avoid_deep_home_handicap_without_price",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "Congo DR's defensive core and counterattacking forwards make a one-goal Portugal win plausible."
+    },
+    "correct_score": [
+      {
+        "score": "2-0",
+        "confidence": "low",
+        "reason": "Best fit for Portugal control plus a reduced Congo DR chance volume."
+      },
+      {
+        "score": "2-1",
+        "confidence": "low",
+        "reason": "Congo DR have enough forward quality through Wissa and Bakambu to punish one transition."
+      },
+      {
+        "score": "1-0",
+        "confidence": "low",
+        "reason": "Covers a slower opener if Congo DR's low block holds for long periods."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "2 goals",
+        "confidence": "medium",
+        "reason": "Portugal should create enough, but Congo DR's first-match plan likely starts compact."
+      },
+      {
+        "selection": "3 goals",
+        "confidence": "low",
+        "reason": "Requires an earlier Portugal breakthrough or a Congo DR counter goal."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "home/home",
+        "confidence": "low",
+        "reason": "Portugal can lead early if their press lands against Congo DR's build-up."
+      },
+      {
+        "selection": "draw/home",
+        "confidence": "low",
+        "reason": "A cautious first half followed by Portugal separation is a live route."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "win_draw_loss",
+    "selection": "Portugal win",
+    "odds": null,
+    "rating": 2,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/",
+      "venue_crosscheck": "https://www.houstonchronicle.com/news/houston-weather/article/whitmore-houston-rain-world-cup-match-22308087.php",
+      "notes": "Houston local reporting references the Portugal vs Congo DR match at NRG Stadium with a noon kickoff on 2026-06-17."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-17T10:41:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "NY Post Group K preview",
+          "market": "Group K winner",
+          "odds": "Portugal -200, Congo DR 14/1",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outrights only, not match odds or Sporttery."
+        }
+      ]
+    },
+    "team_news": [
+      "Cristiano Ronaldo has been cleared to play Portugal's opener and is chasing a sixth World Cup scoring campaign.",
+      "Portugal's creative core includes Bruno Fernandes, Vitinha, Bernardo Silva and Joao Neves.",
+      "Congo DR rely on Axel Tuanzebe, Chancel Mbemba and Aaron Wan-Bissaka in defense, with Yoane Wissa and Cedric Bakambu as key attacking outlets."
+    ],
+    "weather_venue": [
+      "Houston local reports flag heat index around 94F, heavy rain, possible severe thunderstorms and flash-flood risk on match day.",
+      "NRG Stadium has a retractable roof, reducing direct wind/rain impact if closed."
+    ],
+    "historical_structural": [
+      "Portugal are a top-six ranked side and Group K favorite.",
+      "Congo DR return to the World Cup for the first time since 1974 and have no pressure as the clear underdog.",
+      "First group match: Portugal need three points, Congo DR would value a draw."
+    ]
+  },
+  "risks": [
+    "Official China Sporttery odds and single-match status unavailable.",
+    "Portugal's attacking balance can change depending on Ronaldo's role and starting XI.",
+    "Congo DR's defensive block and transition threat make deep handicap exposure risky.",
+    "Houston storm conditions can disrupt travel and preparation even if the roof is closed."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed starting lineups",
+    "Final roof and climate-control status",
+    "Late storm-related logistics updates"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}

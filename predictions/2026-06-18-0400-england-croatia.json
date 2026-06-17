@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-06-17T10:41:00+08:00",
+  "previous_generated_at": null,
+  "timezone": "Asia/Shanghai",
+  "status": "new",
+  "schedule_window": "next_matchday",
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Group L, matchday 1",
+    "home_team": "England",
+    "away_team": "Croatia",
+    "kickoff_beijing": "2026-06-18T04:00:00+08:00",
+    "kickoff_local": "2026-06-17T15:00:00-05:00",
+    "stadium": "Dallas Stadium / AT&T Stadium",
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  "venue_weather": {
+    "temperature_c": 34,
+    "humidity_pct": 44,
+    "wind_kph": null,
+    "precipitation": "rain showers possible outside; roof and air conditioning should mute direct impact if closed",
+    "altitude_m": 184,
+    "impact": "low-to-medium: outside heat is severe, but Dallas Stadium has a retractable roof and climate control"
+  },
+  "probabilities": {
+    "home_win": 50,
+    "draw": 29,
+    "away_win": 21
+  },
+  "markets": {
+    "win_draw_loss": {
+      "selection": "home_win",
+      "odds": null,
+      "confidence": "medium",
+      "single_allowed": null,
+      "reason": "England have the deeper squad and stronger recent qualification profile, but Croatia's tournament control keeps draw risk meaningful."
+    },
+    "handicap": {
+      "line": null,
+      "selection": "avoid_deep_home_handicap_without_price",
+      "odds": null,
+      "confidence": "low",
+      "single_allowed": null,
+      "reason": "A one-goal England win or draw is more plausible than a runaway margin against Croatia's experienced core."
+    },
+    "correct_score": [
+      {
+        "score": "1-0",
+        "confidence": "low",
+        "reason": "Fits England edge plus Croatia's ability to slow the game."
+      },
+      {
+        "score": "1-1",
+        "confidence": "low",
+        "reason": "Covers Croatia set-piece/crossing threat and first-match caution."
+      },
+      {
+        "score": "2-1",
+        "confidence": "low",
+        "reason": "Live if England's front four click or Croatia must chase late."
+      }
+    ],
+    "total_goals": [
+      {
+        "selection": "2 goals",
+        "confidence": "medium",
+        "reason": "Both sides have quality, but the opener should carry caution and Croatia can reduce tempo."
+      },
+      {
+        "selection": "1 goal",
+        "confidence": "low",
+        "reason": "A low-event England win is plausible if Croatia sit deeper."
+      },
+      {
+        "selection": "3 goals",
+        "confidence": "low",
+        "reason": "Needs an early goal or late game-state opening."
+      }
+    ],
+    "half_full_time": [
+      {
+        "selection": "draw/home",
+        "confidence": "low",
+        "reason": "England can grow into the game after an initially cautious first half."
+      },
+      {
+        "selection": "draw/draw",
+        "confidence": "low",
+        "reason": "Croatia's midfield can manage the rhythm if England lack right-side sharpness."
+      },
+      {
+        "selection": "home/home",
+        "confidence": "low",
+        "reason": "Only if England press and score early."
+      }
+    ]
+  },
+  "top_pick": {
+    "play": "win_draw_loss",
+    "selection": "England win",
+    "odds": null,
+    "rating": 2,
+    "action": "lean_only_no_verified_price"
+  },
+  "evidence": {
+    "fixture": {
+      "official_schedule_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "readable_schedule_crosscheck": "https://talksport.com/football/world-cup/4219959/england-vs-croatia-date-uk-time-commentary-world-cup/",
+      "venue_crosscheck": "https://en.wikipedia.org/wiki/AT%26T_Stadium",
+      "notes": "AT&T Stadium/Dallas Stadium listing and match previews place England vs Croatia in Arlington at 15:00 local on 2026-06-17."
+    },
+    "market_data": {
+      "sporttery": {
+        "status": "unconfirmed",
+        "captured_at": "2026-06-17T10:41:00+08:00",
+        "win_draw_loss_odds": null,
+        "handicap_odds": null,
+        "correct_score_odds": null,
+        "single_allowed": null,
+        "note": "No verified public China Sporttery price was available from this run."
+      },
+      "comparison_odds": [
+        {
+          "source": "NY Post Group L preview",
+          "market": "Group L winner",
+          "odds": "England -280",
+          "decimal_odds": null,
+          "url": "https://nypost.com/2026/06/10/sports/world-cup-2026-group-l-preview-prediction-odds-full-team-overviews/",
+          "note": "Group outright only, not match odds or Sporttery."
+        }
+      ]
+    },
+    "team_news": [
+      "Jude Bellingham is expected to start at No. 10 for England.",
+      "Bukayo Saka's fitness is being monitored; Noni Madueke is an option if Saka cannot start.",
+      "Tino Livramento is out of the World Cup and Trevoh Chalobah has been called up.",
+      "Croatia's core remains Luka Modric, Mateo Kovacic, Ivan Perisic and Josko Gvardiol."
+    ],
+    "weather_venue": [
+      "Dallas/Arlington forecast notes point to around 34C at kickoff, real feel near 41C, rain risk and 44% humidity.",
+      "AT&T Stadium has a retractable roof and air conditioning, reducing direct heat exposure if closed."
+    ],
+    "historical_structural": [
+      "England have won six of the previous eleven meetings with Croatia.",
+      "Croatia beat England in the 2018 World Cup semi-final after extra time; England won the Euro 2020 meeting 1-0.",
+      "First match for both sides: England need a statement, Croatia can accept a point."
+    ]
+  },
+  "risks": [
+    "Official China Sporttery prices and single-match status unavailable.",
+    "Saka's fitness and England's right-side selection can change chance quality.",
+    "Croatia's set pieces and crossing can punish one defensive lapse.",
+    "Final roof/air-conditioning status should be confirmed close to kickoff."
+  ],
+  "post_match_review": {
+    "actual_score": null,
+    "result_90min": null,
+    "top_pick_check": null,
+    "correct_score_check": null,
+    "closing_odds": null,
+    "variance_note": null,
+    "reviewed_at": null
+  },
+  "information_gaps": [
+    "Official China Sporttery odds and market status",
+    "Confirmed starting lineups",
+    "Saka's final match fitness",
+    "Final roof and indoor climate-control status"
+  ],
+  "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+}

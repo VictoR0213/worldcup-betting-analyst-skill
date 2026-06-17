@@ -161,13 +161,13 @@
     "Both teams have enough physicality for cards/set pieces to become decisive."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "Cote d'Ivoire 1-0 Ecuador",
+    "result_90min": "home_win",
+    "top_pick_check": "hit",
+    "correct_score_check": "candidate_hit",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "Low-goals lean was right and 1-0 was a listed candidate; the decisive goal arrived late after Ecuador failed to convert its chances.",
+    "reviewed_at": "2026-06-17T10:41:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",

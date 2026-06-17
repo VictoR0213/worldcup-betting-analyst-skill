@@ -161,13 +161,13 @@
     "Monterrey heat can reduce pressing and late tempo."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "Sweden 5-1 Tunisia",
+    "result_90min": "home_win",
+    "top_pick_check": "hit",
+    "correct_score_check": "miss",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "Sweden win direction was correct, but the low-score read missed the scale of Tunisia's defensive collapse and Sweden's conversion spike.",
+    "reviewed_at": "2026-06-17T10:41:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",

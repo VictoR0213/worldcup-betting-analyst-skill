@@ -37,6 +37,15 @@
 
 关键缺口是荷兰最终伤停与首发结构，以及日本是否以高位逼抢开局。若荷兰边路和定位球优势明显，2-1 路径会抬升；若日本压迫成功，客队不败价值更高。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：荷兰 2-2 日本。
+- 90 分钟结果：平局。
+- 主方向：命中；“日本不败观察”方向成立。
+- 比分：接近但未精确命中；原第一比分 1-1 低估了双方后段换人和转换效率。
+- 偏差原因：日本末段韧性高于保守预估，荷兰领先后未能把比赛压成低事件收尾。
+- 复盘时间：2026-06-17 10:41 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -44,3 +53,5 @@
 - [NY Post Group F preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-f-preview-prediction-odds-full-team-overviews/)
 - [The Sun betting comparison](https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/)
 - [Dallas venue cross-check](https://www.axios.com/local/dallas/2026/06/08/dallas-world-cup-branding)
+- [Times of India match report](https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/late-kamada-goal-rescues-japan-in-pulsating-2-2-draw-against-netherlands/articleshow/131757612.cms)
+- [AP tournament update](https://apnews.com/article/94a3ba298b30a7d6314b00b20cd455ae)

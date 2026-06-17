@@ -37,6 +37,15 @@
 
 最大变量是首发攻击组合和天气。如果早早出现进球，比赛会从低节奏变成转换对攻，2-1/1-2 路径会上升。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：科特迪瓦 1-0 厄瓜多尔。
+- 90 分钟结果：科特迪瓦胜。
+- 主方向：命中；“1-2 球区间”成立。
+- 比分：候选比分命中；第一比分 1-1 未中，候选 1-0 命中。
+- 偏差原因：整体低比分判断正确，厄瓜多尔两次中框但终结偏差，科特迪瓦由阿马德-迪亚洛在 90 分钟完成决定性一击。
+- 复盘时间：2026-06-17 10:41 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -44,3 +53,5 @@
 - [NY Post Group E preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/)
 - [The Sun betting comparison](https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/)
 - [Philadelphia venue cross-check](https://en.wikipedia.org/wiki/Lincoln_Financial_Field)
+- [Guardian live report](https://www.theguardian.com/football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live)
+- [Axios Philadelphia report](https://www.axios.com/local/philadelphia/2026/06/15/ecuador-ivory-coast-world-cup-philly-first-match)

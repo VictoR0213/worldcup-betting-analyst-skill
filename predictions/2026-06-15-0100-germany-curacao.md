@@ -37,6 +37,15 @@
 
 最大缺口是竞彩赔率、单关状态和官方首发。若德国轮换、穆西亚拉受限，或库拉索前 30 分钟守住低位，德国穿深盘的风险会明显上升。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：德国 7-1 库拉索。
+- 90 分钟结果：德国胜。
+- 主方向：命中；德国胜方向正确，但赛前比分低估了德国进攻效率和库拉索后段崩盘风险。
+- 比分：未命中；原第一比分 3-0，候选 4-0、2-0 均偏保守。
+- 偏差原因：库拉索在 21 分钟扳平后没有把比赛拖入低节奏，德国随后通过连续高质量推进和定位/二点球压制放大了强弱差。
+- 复盘时间：2026-06-17 10:41 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -44,3 +53,5 @@
 - [Houston Chronicle preview](https://www.houstonchronicle.com/world-cup/article/germany-curacao-preview-world-cup-2026-22303968.php)
 - [The Sun betting comparison](https://www.thesun.co.uk/betting/39383794/world-cup-2026-acca-tips-14-15-june/)
 - [New York Post Group E preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-e-preview-prediction-odds-full-team-overviews/)
+- [Guardian live report](https://www.theguardian.com/football/live/2026/jun/14/germany-v-curacao-world-cup-2026-live)
+- [AP tournament update](https://apnews.com/article/94a3ba298b30a7d6314b00b20cd455ae)
