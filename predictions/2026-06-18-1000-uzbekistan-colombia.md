@@ -43,6 +43,15 @@
 
 核心变量是哥伦比亚能否早早打穿低位，以及乌兹别克斯坦是否能把比赛压成少回合。海拔会让临场体能和换人比普通中立场更重要。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：乌兹别克斯坦 1-3 哥伦比亚。
+- 90 分钟结果：哥伦比亚胜。
+- 主方向：命中；哥伦比亚胜方向成立。
+- 比分：未命中；原第一比分 0-1，候选 1-1、0-2 没有覆盖双方进球和补时阶段的第三球。
+- 偏差原因：比赛大部分时间仍偏谨慎，但 Daniel Muñoz 的首球迫使乌兹别克斯坦提高压迫。Fayzullaev 打入乌兹别克斯坦世界杯首球后，Luis Diaz 很快重新领先，Campaz 在补时扩大比分，哥伦比亚效率和替补贡献高于预估。
+- 复盘时间：2026-06-18 14:18 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -51,3 +60,4 @@
 - [Guardian Uzbekistan/Jordan debut preview](https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026)
 - [NY Post Group K preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/)
 - [Estadio Azteca venue cross-check](https://en.wikipedia.org/wiki/Estadio_Azteca)
+- [Guardian match report](https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest)

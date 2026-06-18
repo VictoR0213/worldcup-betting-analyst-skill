@@ -1,25 +1,17 @@
 # World Cup 2026 Predictions Index
 
-Generated at: 2026-06-17 10:41 +08:00
+Generated at: 2026-06-18 14:18 +08:00
 
 Automation window:
 
-- Current run time: 2026-06-17 10:41 +08:00
-- Review scope: 2026-06-15 Beijing-time predictions already played
-- New prediction scope: 2026-06-18 Beijing-time fixtures from the 2026-06-17 North America matchday
-- Matches reviewed: 4
-- New predictions added: 4
+- Current run time: 2026-06-18 14:18 +08:00
+- Review scope: 2026-06-18 Beijing-time predictions already played
+- Matches reviewed in this update: 4
+- Active predictions added: 0
 
 ## Active Predictions
 
-Probability column is ordered by fixture order: left win / draw / right win.
-
-| Kickoff Beijing | Fixture | Stage | Top pick | 90-min probability | First score | Other scores | Rating | Files | Review |
-|---|---|---|---|---|:---:|---|---:|---|---|
-| 2026-06-18 01:00 | Portugal vs Congo DR | Group K | Portugal win | Portugal 65% / Draw 22% / Congo DR 13% | 2-0 | 2-1, 1-0 | 2 | [MD](2026-06-18-0100-portugal-congo-dr.md) / [JSON](2026-06-18-0100-portugal-congo-dr.json) | Pending |
-| 2026-06-18 04:00 | England vs Croatia | Group L | England win, weak lean | England 50% / Draw 29% / Croatia 21% | 1-0 | 1-1, 2-1 | 2 | [MD](2026-06-18-0400-england-croatia.md) / [JSON](2026-06-18-0400-england-croatia.json) | Pending |
-| 2026-06-18 06:00 | Ghana vs Panama | Group L | 1 or 2 goals lean | Ghana 37% / Draw 31% / Panama 32% | 1-1 | 1-0, 0-1 | 2 | [MD](2026-06-18-0600-ghana-panama.md) / [JSON](2026-06-18-0600-ghana-panama.json) | Pending |
-| 2026-06-18 10:00 | Uzbekistan vs Colombia | Group K | Colombia win | Uzbekistan 17% / Draw 27% / Colombia 56% | 0-1 | 1-1, 0-2 | 2 | [MD](2026-06-18-1000-uzbekistan-colombia.md) / [JSON](2026-06-18-1000-uzbekistan-colombia.json) | Pending |
+No active predictions were added in this results-only update.
 
 ## Post-Match Review
 
@@ -29,6 +21,10 @@ Probability column is ordered by fixture order: left win / draw / right win.
 | Netherlands vs Japan | Netherlands 2-2 Japan | Draw | Japan non-loss watch | Hit | Near miss | Non-loss read held, but the 1-1 score understated late attacking volatility. | 2026-06-17 10:41 +08:00 |
 | Cote d'Ivoire vs Ecuador | Cote d'Ivoire 1-0 Ecuador | Cote d'Ivoire win | 1 or 2 goals lean | Hit | Candidate hit | Low-goals read held; 1-0 was a listed candidate after a late Amad Diallo winner. | 2026-06-17 10:41 +08:00 |
 | Sweden vs Tunisia | Sweden 5-1 Tunisia | Sweden win | Sweden win, weak lean | Hit | Miss | Sweden direction right, but the low-score forecast missed Tunisia's defensive collapse. | 2026-06-17 10:41 +08:00 |
+| Portugal vs Congo DR | Portugal 1-1 Congo DR | Draw | Portugal win | Miss | Miss | Portugal scored early but lost fluency; Congo DR's low block and set-piece equalizer produced a historic point. | 2026-06-18 14:18 +08:00 |
+| England vs Croatia | England 4-2 Croatia | England win | England win, weak lean | Hit | Miss | Win direction held, but the 2-2 first half and England's attacking depth broke the low-score model. | 2026-06-18 14:18 +08:00 |
+| Ghana vs Panama | Ghana 1-0 Panama | Ghana win | 1 or 2 goals lean | Hit | Candidate hit | Low-goals read held and 1-0 was listed; Yirenkyi scored the rainy Toronto winner in the 95th minute. | 2026-06-18 14:18 +08:00 |
+| Uzbekistan vs Colombia | Uzbekistan 1-3 Colombia | Colombia win | Colombia win | Hit | Miss | Colombia direction held, but Uzbekistan scored and Colombia added a stoppage-time third. | 2026-06-18 14:18 +08:00 |
 
 ## Evidence Policy Notes
 
@@ -58,3 +54,7 @@ Probability column is ordered by fixture order: left win / draw / right win.
 - [NY Post Group K preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/)
 - [NY Post Group L preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-l-preview-prediction-odds-full-team-overviews/)
 - [Guardian World Cup weather tracker](https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup)
+- [Guardian Portugal vs Congo DR report](https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live)
+- [Guardian England vs Croatia report](https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates)
+- [Guardian Ghana vs Panama report](https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live)
+- [Guardian Uzbekistan vs Colombia report](https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest)

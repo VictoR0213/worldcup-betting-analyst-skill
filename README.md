@@ -7,7 +7,7 @@
 <br>
 
 [![Prediction Index](https://img.shields.io/badge/Prediction_Index-open-111827?style=for-the-badge)](predictions/index.md)
-![Window](https://img.shields.io/badge/Window-Next_Matchday-2563eb?style=for-the-badge)
+![Window](https://img.shields.io/badge/Window-Results_Updated-2563eb?style=for-the-badge)
 ![Sporttery](https://img.shields.io/badge/Sporttery_Odds-unverified-f59e0b?style=for-the-badge)
 ![Review](https://img.shields.io/badge/PostMatch_Review-updated-16a34a?style=for-the-badge)
 
@@ -69,38 +69,38 @@
     <tr>
       <td align="center"><strong>06-18</strong><br><strong>01:00</strong><br><sub>K组</sub></td>
       <td><strong>葡萄牙 vs 刚果（金）</strong><br><sub>Houston Stadium</sub><br><a href="predictions/2026-06-18-0100-portugal-congo-dr.md">中文分析</a> · <a href="predictions/2026-06-18-0100-portugal-congo-dr.json">JSON</a></td>
-      <td align="center"><strong>待赛</strong></td>
+      <td align="center"><strong>已赛</strong></td>
       <td><strong>葡萄牙胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
       <td><strong>葡萄牙胜 65%</strong><br><sub>平 22% · 刚果（金）胜 13%</sub></td>
-      <td align="center"><strong>预测 <code>2-0</code></strong><br><sub>候选 <code>2-1</code> <code>1-0</code></sub></td>
-      <td>NRG 可闭顶；休斯敦有热指数、强降雨和洪涝风险<br><sub>场外交通/热身变量大于场内风雨变量</sub></td>
+      <td align="center"><strong>实际 <code>1-1</code></strong><br><sub>预测 <code>2-0</code></sub></td>
+      <td>主方向未中；总进球 2 球命中<br><sub>刚果（金）低位纪律和定位球质量被低估</sub></td>
     </tr>
     <tr>
       <td align="center"><strong>06-18</strong><br><strong>04:00</strong><br><sub>L组</sub></td>
       <td><strong>英格兰 vs 克罗地亚</strong><br><sub>Dallas Stadium</sub><br><a href="predictions/2026-06-18-0400-england-croatia.md">中文分析</a> · <a href="predictions/2026-06-18-0400-england-croatia.json">JSON</a></td>
-      <td align="center"><strong>待赛</strong></td>
+      <td align="center"><strong>已赛</strong></td>
       <td><strong>英格兰胜弱倾向</strong><br><sub>信心 2/4 · 小胜路径</sub></td>
       <td><strong>英格兰胜 50%</strong><br><sub>平 29% · 克罗地亚胜 21%</sub></td>
-      <td align="center"><strong>预测 <code>1-0</code></strong><br><sub>候选 <code>1-1</code> <code>2-1</code></sub></td>
-      <td>室外约 34°C、体感高；AT&T 可闭顶空调<br><sub>Saka 状态、Livramento 伤退、克罗地亚老将节奏是关键</sub></td>
+      <td align="center"><strong>实际 <code>4-2</code></strong><br><sub>预测 <code>1-0</code></sub></td>
+      <td>主方向命中；比分未中<br><sub>英格兰进攻深度和双方防守开放度高于预估</sub></td>
     </tr>
     <tr>
       <td align="center"><strong>06-18</strong><br><strong>06:00</strong><br><sub>L组</sub></td>
       <td><strong>加纳 vs 巴拿马</strong><br><sub>Toronto Stadium</sub><br><a href="predictions/2026-06-18-0600-ghana-panama.md">中文分析</a> · <a href="predictions/2026-06-18-0600-ghana-panama.json">JSON</a></td>
-      <td align="center"><strong>待赛</strong></td>
+      <td align="center"><strong>已赛</strong></td>
       <td><strong>1-2 球区间</strong><br><sub>信心 2/4 · 小球倾向</sub></td>
       <td><strong>加纳胜 37%</strong><br><sub>平 31% · 巴拿马胜 32%</sub></td>
-      <td align="center"><strong>预测 <code>1-1</code></strong><br><sub>候选 <code>1-0</code> <code>0-1</code></sub></td>
-      <td>Toronto Stadium 室外；小时级天气未可靠核验<br><sub>Partey 无法入境加拿大，巴拿马低位组织是关键</sub></td>
+      <td align="center"><strong>实际 <code>1-0</code></strong><br><sub>预测 <code>1-1</code></sub></td>
+      <td>小球命中；候选比分命中<br><sub>雨战低节奏，Yirenkyi 95 分钟绝杀</sub></td>
     </tr>
     <tr>
       <td align="center"><strong>06-18</strong><br><strong>10:00</strong><br><sub>K组</sub></td>
       <td><strong>乌兹别克斯坦 vs 哥伦比亚</strong><br><sub>Mexico City Stadium</sub><br><a href="predictions/2026-06-18-1000-uzbekistan-colombia.md">中文分析</a> · <a href="predictions/2026-06-18-1000-uzbekistan-colombia.json">JSON</a></td>
-      <td align="center"><strong>待赛</strong></td>
+      <td align="center"><strong>已赛</strong></td>
       <td><strong>哥伦比亚胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
       <td><strong>乌兹别克斯坦胜 17%</strong><br><sub>平 27% · 哥伦比亚胜 56%</sub></td>
-      <td align="center"><strong>预测 <code>0-1</code></strong><br><sub>候选 <code>1-1</code> <code>0-2</code></sub></td>
-      <td>墨西哥城约 2,200 米海拔；小时级天气未可靠核验<br><sub>哥伦比亚质量占优，但不宜追深让</sub></td>
+      <td align="center"><strong>实际 <code>1-3</code></strong><br><sub>预测 <code>0-1</code></sub></td>
+      <td>主方向命中；比分未中<br><sub>双方进球和哥伦比亚补时第三球超出低比分预期</sub></td>
     </tr>
   </tbody>
 </table>
@@ -114,10 +114,10 @@
 | **06-15**<br>**04:00**<br><sub>Group F</sub> | **Netherlands vs Japan**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-15-0400-netherlands-japan.md) · [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | Final | **Japan non-loss watch** | Netherlands 42% / Draw 28% / Japan 30% | Actual <code>2-2</code><br>Predicted <code>1-1</code> | Non-loss hit; score near miss |
 | **06-15**<br>**07:00**<br><sub>Group E</sub> | **Cote d'Ivoire vs Ecuador**<br><sub>Philadelphia Stadium</sub><br>[Preview](predictions/2026-06-15-0700-cote-divoire-ecuador.md) · [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | Final | **1-2 goals lean** | Cote d'Ivoire 36% / Draw 30% / Ecuador 34% | Actual <code>1-0</code><br>Predicted <code>1-1</code> | Goals hit; candidate score hit |
 | **06-15**<br>**10:00**<br><sub>Group F</sub> | **Sweden vs Tunisia**<br><sub>Estadio Monterrey</sub><br>[Preview](predictions/2026-06-15-1000-sweden-tunisia.md) · [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | Final | **Sweden weak win lean** | Sweden 48% / Draw 29% / Tunisia 23% | Actual <code>5-1</code><br>Predicted <code>1-0</code> | Lean hit; score missed |
-| **06-18**<br>**01:00**<br><sub>Group K</sub> | **Portugal vs Congo DR**<br><sub>Houston Stadium</sub><br>[Preview](predictions/2026-06-18-0100-portugal-congo-dr.md) · [JSON](predictions/2026-06-18-0100-portugal-congo-dr.json) | Pending | **Portugal win** | Portugal 65% / Draw 22% / Congo DR 13% | Predicted <code>2-0</code><br>Others <code>2-1</code> <code>1-0</code> | Houston roof plus storm/flood logistics risk |
-| **06-18**<br>**04:00**<br><sub>Group L</sub> | **England vs Croatia**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-18-0400-england-croatia.md) · [JSON](predictions/2026-06-18-0400-england-croatia.json) | Pending | **England weak win lean** | England 50% / Draw 29% / Croatia 21% | Predicted <code>1-0</code><br>Others <code>1-1</code> <code>2-1</code> | Retractable roof/AC should reduce outside heat |
-| **06-18**<br>**06:00**<br><sub>Group L</sub> | **Ghana vs Panama**<br><sub>Toronto Stadium</sub><br>[Preview](predictions/2026-06-18-0600-ghana-panama.md) · [JSON](predictions/2026-06-18-0600-ghana-panama.json) | Pending | **1-2 goals lean** | Ghana 37% / Draw 31% / Panama 32% | Predicted <code>1-1</code><br>Others <code>1-0</code> <code>0-1</code> | Outdoor venue; Partey unavailable in Canada |
-| **06-18**<br>**10:00**<br><sub>Group K</sub> | **Uzbekistan vs Colombia**<br><sub>Mexico City Stadium</sub><br>[Preview](predictions/2026-06-18-1000-uzbekistan-colombia.md) · [JSON](predictions/2026-06-18-1000-uzbekistan-colombia.json) | Pending | **Colombia win** | Uzbekistan 17% / Draw 27% / Colombia 56% | Predicted <code>0-1</code><br>Others <code>1-1</code> <code>0-2</code> | Mexico City altitude is the main venue factor |
+| **06-18**<br>**01:00**<br><sub>Group K</sub> | **Portugal vs Congo DR**<br><sub>Houston Stadium</sub><br>[Preview](predictions/2026-06-18-0100-portugal-congo-dr.md) · [JSON](predictions/2026-06-18-0100-portugal-congo-dr.json) | Final | **Portugal win** | Portugal 65% / Draw 22% / Congo DR 13% | Actual <code>1-1</code><br>Predicted <code>2-0</code> | Lean missed; two-goal total hit |
+| **06-18**<br>**04:00**<br><sub>Group L</sub> | **England vs Croatia**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-18-0400-england-croatia.md) · [JSON](predictions/2026-06-18-0400-england-croatia.json) | Final | **England weak win lean** | England 50% / Draw 29% / Croatia 21% | Actual <code>4-2</code><br>Predicted <code>1-0</code> | Lean hit; score missed |
+| **06-18**<br>**06:00**<br><sub>Group L</sub> | **Ghana vs Panama**<br><sub>Toronto Stadium</sub><br>[Preview](predictions/2026-06-18-0600-ghana-panama.md) · [JSON](predictions/2026-06-18-0600-ghana-panama.json) | Final | **1-2 goals lean** | Ghana 37% / Draw 31% / Panama 32% | Actual <code>1-0</code><br>Predicted <code>1-1</code> | Goals hit; candidate score hit |
+| **06-18**<br>**10:00**<br><sub>Group K</sub> | **Uzbekistan vs Colombia**<br><sub>Mexico City Stadium</sub><br>[Preview](predictions/2026-06-18-1000-uzbekistan-colombia.md) · [JSON](predictions/2026-06-18-1000-uzbekistan-colombia.json) | Final | **Colombia win** | Uzbekistan 17% / Draw 27% / Colombia 56% | Actual <code>1-3</code><br>Predicted <code>0-1</code> | Lean hit; score missed |
 
 </details>
 

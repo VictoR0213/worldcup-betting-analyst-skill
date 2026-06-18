@@ -150,13 +150,13 @@
     "Mexico City altitude can change late-game tempo and finishing."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "Uzbekistan 1-3 Colombia",
+    "result_90min": "away_win",
+    "top_pick_check": "hit",
+    "correct_score_check": "miss",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "Colombia win direction was correct, but Uzbekistan scored after the break and Colombia added a stoppage-time third, pushing the match beyond the projected low-goal band.",
+    "reviewed_at": "2026-06-18T14:18:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",

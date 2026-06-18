@@ -149,13 +149,13 @@
     "Exact Toronto kickoff weather values were not verified."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "Ghana 1-0 Panama",
+    "result_90min": "home_win",
+    "top_pick_check": "hit",
+    "correct_score_check": "candidate_hit",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "The one-to-two-goal lean held and 1-0 was a listed candidate; Ghana won through Caleb Yirenkyi's 95th-minute goal in rainy Toronto.",
+    "reviewed_at": "2026-06-18T14:18:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",

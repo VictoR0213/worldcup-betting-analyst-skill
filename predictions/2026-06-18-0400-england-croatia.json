@@ -154,13 +154,13 @@
     "Final roof/air-conditioning status should be confirmed close to kickoff."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "England 4-2 Croatia",
+    "result_90min": "home_win",
+    "top_pick_check": "hit",
+    "correct_score_check": "miss",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "England win direction was correct, but the low-score model missed a 2-2 first half, England's attacking depth and recurring defensive openings.",
+    "reviewed_at": "2026-06-18T14:18:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",

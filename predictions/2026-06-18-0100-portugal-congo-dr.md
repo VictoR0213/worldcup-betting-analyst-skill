@@ -43,6 +43,15 @@
 
 最大变量是葡萄牙首发结构、Ronaldo 与中前场流动性的关系，以及休斯敦风暴对抵达、热身和节奏的间接影响。预测不构成收益承诺，不建议追损或重仓。
 
+## 赛后复盘
+
+- 实际比分：葡萄牙 1-1 刚果（金）。
+- 90 分钟结果：平局。
+- 主方向：未命中；葡萄牙胜被刚果（金）的低位纪律和定位球反击破坏。
+- 比分：未命中；原第一比分 2-0，候选 2-1、1-0 均未覆盖平局，但“总进球 2 球”判断命中。
+- 偏差原因：Joao Neves 早早破门后，葡萄牙没有持续扩大优势；Yoane Wissa 在半场前利用角球扳平。葡萄牙控球占优但进攻流动性不足，刚果（金）的防守强度和反击质量高于赛前权重。
+- 复盘时间：2026-06-18 14:18 +08:00。
+
 ## 来源
 
 - [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
@@ -50,3 +59,5 @@
 - [Houston Chronicle DR Congo preview](https://www.houstonchronicle.com/world-cup/article/dr-congo-portugal-world-cup-22307622.php)
 - [Guardian Portugal preview](https://www.theguardian.com/football/2026/jun/17/portugal-cristiano-ronaldo-world-cup-drc)
 - [NY Post Group K preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/)
+- [Guardian match report](https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live)
+- [Axios Houston report](https://www.axios.com/2026/06/17/portugal-congo-world-cup-houston)

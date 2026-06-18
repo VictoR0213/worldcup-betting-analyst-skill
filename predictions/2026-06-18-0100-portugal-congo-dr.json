@@ -143,13 +143,13 @@
     "Houston storm conditions can disrupt travel and preparation even if the roof is closed."
   ],
   "post_match_review": {
-    "actual_score": null,
-    "result_90min": null,
-    "top_pick_check": null,
-    "correct_score_check": null,
+    "actual_score": "Portugal 1-1 Congo DR",
+    "result_90min": "draw",
+    "top_pick_check": "miss",
+    "correct_score_check": "miss",
     "closing_odds": null,
-    "variance_note": null,
-    "reviewed_at": null
+    "variance_note": "Portugal scored early but lost attacking fluency; Congo DR's disciplined block and Wissa's set-piece equalizer produced the draw. The two-goal total call was correct.",
+    "reviewed_at": "2026-06-18T14:18:00+08:00"
   },
   "information_gaps": [
     "Official China Sporttery odds and market status",
