@@ -1,60 +1,65 @@
-# World Cup 2026 Predictions Index
+# World Cup 2026 1/16 决赛预测索引
 
-Generated at: 2026-06-18 14:18 +08:00
+Generated at: 2026-07-01 16:46 +08:00
 
 Automation window:
 
-- Current run time: 2026-06-18 14:18 +08:00
-- Review scope: 2026-06-18 Beijing-time predictions already played
-- Matches reviewed in this update: 4
-- Active predictions added: 0
+- Current run time: 2026-07-01 16:46 +08:00
+- Active board: 1/16 决赛 / Round of 32
+- Matches covered in this update: 9
+- Settlement basis: 90 minutes plus stoppage time; extra time and penalties excluded
+
+## Active Board
+
+- [1/16 决赛中文看板](2026-07-01-round-of-32-board.md)
+- [Machine-readable JSON](2026-07-01-round-of-32-board.json)
 
 ## Active Predictions
 
-No active predictions were added in this results-only update.
+| Beijing time | Fixture | Venue | WDL lean | 90-min probability | Total goals | Main score | Backup score | Parlay status |
+|---|---|---|---|---:|---|---:|---:|---|
+| 2026-07-02 00:00 | England vs Congo DR | Atlanta Stadium | England win | 68 / 22 / 10 | 2 goals | **2-0** | 1-0 | Included |
+| 2026-07-02 04:00 | Belgium vs Senegal | Seattle Stadium | Belgium non-loss | 40 / 31 / 29 | 2-3 goals | **2-1** | 1-1 | Excluded |
+| 2026-07-02 08:00 | USA vs Bosnia and Herzegovina | San Francisco Bay Stadium | USA win | 62 / 24 / 14 | 2-3 goals | **2-0** | 2-1 | Included |
+| 2026-07-03 03:00 | Spain vs Austria | Los Angeles Stadium | Spain win | 68 / 21 / 11 | 2-3 goals | **2-0** | 2-1 | Included |
+| 2026-07-03 07:00 | Portugal vs Croatia | Toronto Stadium | Portugal slight edge | 43 / 32 / 25 | 2 goals | **1-1** | 2-1 | Excluded |
+| 2026-07-03 11:00 | Switzerland vs Algeria | Vancouver Stadium | Switzerland slight edge | 45 / 30 / 25 | 1-2 goals | **1-0** | 1-1 | Excluded |
+| 2026-07-04 02:00 | Australia vs Egypt | Dallas Stadium | Draw/Egypt non-loss | 30 / 34 / 36 | 1-2 goals | **1-1** | 0-1 | Excluded |
+| 2026-07-04 06:00 | Argentina vs Cabo Verde | Miami Stadium | Argentina win | 73 / 18 / 9 | 2-3 goals | **3-0** | 2-0 | Included |
+| 2026-07-04 09:30 | Colombia vs Ghana | Kansas City Stadium | Colombia win | 58 / 27 / 15 | 1-2 goals | **1-0** | 2-0 | Included |
 
-## Post-Match Review
+## 1x5 Score Ticket
 
-| Fixture | Actual score | 90-min result | Top pick | Top-pick check | Correct-score check | Variance note | Reviewed at |
-|---|---|---|---|---|---|---|---|
-| Germany vs Curacao | Germany 7-1 Curacao | Germany win | Germany win | Hit | Miss | Direction right, scoreline much wider than projected after Curacao's brief equalizer. | 2026-06-17 10:41 +08:00 |
-| Netherlands vs Japan | Netherlands 2-2 Japan | Draw | Japan non-loss watch | Hit | Near miss | Non-loss read held, but the 1-1 score understated late attacking volatility. | 2026-06-17 10:41 +08:00 |
-| Cote d'Ivoire vs Ecuador | Cote d'Ivoire 1-0 Ecuador | Cote d'Ivoire win | 1 or 2 goals lean | Hit | Candidate hit | Low-goals read held; 1-0 was a listed candidate after a late Amad Diallo winner. | 2026-06-17 10:41 +08:00 |
-| Sweden vs Tunisia | Sweden 5-1 Tunisia | Sweden win | Sweden win, weak lean | Hit | Miss | Sweden direction right, but the low-score forecast missed Tunisia's defensive collapse. | 2026-06-17 10:41 +08:00 |
-| Portugal vs Congo DR | Portugal 1-1 Congo DR | Draw | Portugal win | Miss | Miss | Portugal scored early but lost fluency; Congo DR's low block and set-piece equalizer produced a historic point. | 2026-06-18 14:18 +08:00 |
-| England vs Croatia | England 4-2 Croatia | England win | England win, weak lean | Hit | Miss | Win direction held, but the 2-2 first half and England's attacking depth broke the low-score model. | 2026-06-18 14:18 +08:00 |
-| Ghana vs Panama | Ghana 1-0 Panama | Ghana win | 1 or 2 goals lean | Hit | Candidate hit | Low-goals read held and 1-0 was listed; Yirenkyi scored the rainy Toronto winner in the 95th minute. | 2026-06-18 14:18 +08:00 |
-| Uzbekistan vs Colombia | Uzbekistan 1-3 Colombia | Colombia win | Colombia win | Hit | Miss | Colombia direction held, but Uzbekistan scored and Colombia added a stoppage-time third. | 2026-06-18 14:18 +08:00 |
+| Leg | Fixture | Main | Backup |
+|---:|---|---:|---:|
+| 1 | Argentina vs Cabo Verde | **3-0** | 2-0 |
+| 2 | Spain vs Austria | **2-0** | 2-1 |
+| 3 | USA vs Bosnia and Herzegovina | **2-0** | 2-1 |
+| 4 | England vs Congo DR | **2-0** | 1-0 |
+| 5 | Colombia vs Ghana | **1-0** | 2-0 |
+
+If all five matches are selected with two correct-score candidates and only the 5-leg pass is checked, the ticket has 32 combinations. In a 2 RMB base stake format, this is 64 RMB.
 
 ## Evidence Policy Notes
 
-- China Sporttery odds were not verified from an official public source in this run. Prediction files therefore use `odds=null` and `single_allowed=null` for Sporttery fields.
-- International prices or tips are recorded only as comparison evidence and are not treated as Sporttery prices.
-- Weather and venue fields were refreshed per match. Houston and Dallas have current match-day weather notes; Toronto and Mexico City exact hourly values were not reliably captured, so those entries are explicitly marked as unconfirmed.
-- Correct-score and half/full-time picks are high-variance references, not strong plays.
-- No prediction guarantees profit; all entries retain risk and information-gap fields.
+- Overseas platforms are the primary market signal in this board, led by DraftKings opening odds where available.
+- Sporttery correct-score odds are retained only as supplemental screenshot evidence for England vs Congo DR, Belgium vs Senegal, and USA vs Bosnia and Herzegovina.
+- Australia vs Egypt remains downgraded because a stable overseas WDL market snapshot was not captured in this run.
+- Weather notes use venue type and available public context; exact kickoff-hour weather remains an information gap for several outdoor venues.
+- Correct-score picks are high-variance references. Parlays multiply risk and should stay small.
 
-## Sources Used
+## Source Snapshot
 
-- [FIFA official schedule](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums)
-- [SB Nation schedule and results cross-check](https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more)
-- [AP tournament update](https://apnews.com/article/94a3ba298b30a7d6314b00b20cd455ae)
-- [Guardian Germany vs Curacao live report](https://www.theguardian.com/football/live/2026/jun/14/germany-v-curacao-world-cup-2026-live)
-- [Guardian Cote d'Ivoire vs Ecuador live report](https://www.theguardian.com/football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live)
-- [Times of India Netherlands vs Japan report](https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/late-kamada-goal-rescues-japan-in-pulsating-2-2-draw-against-netherlands/articleshow/131757612.cms)
-- [The Times Tunisia coaching update](https://www.thetimes.com/sport/football/world-cup/article/sabri-lamouchi-tunisia-manager-sacked-sweden-fifa-world-cup-2026-rztd7pj3d)
-- [Guardian England vs Croatia preview](https://www.theguardian.com/football/2026/jun/17/thomas-tuchel-world-cup-opener-england-croatia)
-- [Guardian Ghana Partey visa update](https://www.theguardian.com/football/2026/jun/17/ghana-thomas-partey-visa-appeal-rejected-canadian-judge-world-cup-panama)
-- [Guardian Portugal preview](https://www.theguardian.com/football/2026/jun/17/portugal-cristiano-ronaldo-world-cup-drc)
-- [Houston Chronicle Portugal vs Congo DR weather update](https://www.houstonchronicle.com/news/houston-weather/article/whitmore-houston-rain-world-cup-match-22308087.php)
-- [Houston Chronicle DR Congo preview](https://www.houstonchronicle.com/world-cup/article/dr-congo-portugal-world-cup-22307622.php)
-- [Guardian Uzbekistan debut preview](https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026)
-- [El Pais Colombia schedule and team note](https://elpais.com/america-colombia/2026-06-17/seleccion-colombia-en-el-mundial-2026-rivales-horarios-y-donde-ver-los-partidos-de-copa-del-mundo.html)
-- [El Pais Lorenzo preview](https://elpais.com/america-colombia/2026-06-17/nestor-lorenzo-el-mundial-nos-ha-demostrado-que-no-hay-equipo-pequeno.html)
-- [NY Post Group K preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-k-preview-prediction-odds-full-team-overviews/)
-- [NY Post Group L preview](https://nypost.com/2026/06/10/sports/world-cup-2026-group-l-preview-prediction-odds-full-team-overviews/)
-- [Guardian World Cup weather tracker](https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup)
-- [Guardian Portugal vs Congo DR report](https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live)
-- [Guardian England vs Croatia report](https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates)
-- [Guardian Ghana vs Panama report](https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live)
-- [Guardian Uzbekistan vs Colombia report](https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest)
+- [DraftKings England vs DR Congo](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-england-vs-dr-congo-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings Belgium vs Senegal](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-belgium-vs-senegal-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings USA vs Bosnia and Herzegovina](https://dknetwork.draftkings.com/2026/06/26/opening-odds-for-usa-vs-bosnia-and-herzegovina-in-the-fifa-2026-world-cup/)
+- [DraftKings Spain vs Austria](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-spain-vs-austria-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings Portugal vs Croatia](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-portugal-vs-croatia-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings Switzerland vs Algeria](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-switzerland-vs-algeria-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings Argentina vs Cabo Verde](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-argentina-vs-cape-verde-in-the-2026-fifa-world-cup-round-of-32/)
+- [DraftKings Colombia vs Ghana](https://dknetwork.draftkings.com/2026/06/28/opening-odds-for-colombia-vs-ghana-in-the-2026-fifa-world-cup-round-of-32/)
+- [Guardian Australia vs Egypt](https://www.theguardian.com/football/2026/jun/27/australia-socceroos-egypt-world-cup-last-32-dallas)
+
+## Archived Post-Match Review
+
+The previous June group-stage review files remain in this directory as historical records, but they are no longer the public landing-board focus.

@@ -1,127 +1,146 @@
 <div align="center">
 
-# FIFA World Cup 2026 赛前预测看板
+# FIFA World Cup 2026 · 1/16 决赛预测看板
 
-<strong>中文优先 · 90 分钟概率 · 赛后比分复盘 · 下一比赛日预测</strong>
+<strong>90分钟胜平负 · 总进球数 · 主/副候选比分 · 1串5比分票面</strong>
 
 <br>
 
-[![Prediction Index](https://img.shields.io/badge/Prediction_Index-open-111827?style=for-the-badge)](predictions/index.md)
-![Window](https://img.shields.io/badge/Window-Results_Updated-2563eb?style=for-the-badge)
-![Sporttery](https://img.shields.io/badge/Sporttery_Odds-unverified-f59e0b?style=for-the-badge)
-![Review](https://img.shields.io/badge/PostMatch_Review-updated-16a34a?style=for-the-badge)
+[![Round of 32 Board](https://img.shields.io/badge/Round_of_32-board-111827?style=for-the-badge)](predictions/index.md)
+![Updated](https://img.shields.io/badge/Updated-2026--07--01_16%3A46_HKT-2563eb?style=for-the-badge)
+![Settlement](https://img.shields.io/badge/Settlement-90min%2Bstoppage-16a34a?style=for-the-badge)
+![Odds](https://img.shields.io/badge/Odds-overseas_primary-f59e0b?style=for-the-badge)
 
 </div>
 
-> **读表说明**：`90分钟概率` 按对阵顺序读取，`左胜` = 左侧球队在 90 分钟内获胜，`平` = 90 分钟打平，`右胜` = 右侧球队获胜。它是概率判断，不是比分，也不是赔率。中国竞彩官方赔率本轮仍未核验，JSON 中官方赔率字段保留为 `null` / `unconfirmed`。比分栏中 `实际` 为赛后比分，`预测` 为赛前第一比分。
+> **读表口径**：所有胜平负和比分均按 90 分钟含伤停计算，不含加时和点球。水位以 DraftKings 等国外平台开盘/对照盘为主；你截图里已有的竞彩比分赔率仅作为补充记录。塔罗/卦象只作为娱乐型情绪标签，不进入主概率权重。
 
-## 中文预测表与复盘
+## 1串5 主票
+
+| 预算 | 下法 | 注数 | 主线比分 | 风险 |
+|---:|---|---:|---|---|
+| 64 元 | 5 场每场 2 个比分，只勾 5 关 | 32 注 | 阿根廷 3-0 × 西班牙 2-0 × 美国 2-0 × 英格兰 2-0 × 哥伦比亚 1-0 | 比分串关方差极高，适合小额，不建议加倍 |
+
+## 横向看板
 
 <table>
   <thead>
     <tr>
-      <th align="center">开球</th>
-      <th align="left">比赛</th>
-      <th align="center">状态</th>
-      <th align="left">主方向</th>
-      <th align="left">90分钟概率</th>
-      <th align="center">比分</th>
-      <th align="left">复盘 / 天气场地提示</th>
+      <th align="center">北京时间</th>
+      <th align="left">比赛 / 场馆</th>
+      <th align="left">水位信号</th>
+      <th align="left">阵容伤停 + 天气场地</th>
+      <th align="center">胜平负</th>
+      <th align="center">总进球</th>
+      <th align="center">主比分</th>
+      <th align="center">副比分</th>
+      <th align="center">1串5</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>06-15</strong><br><strong>01:00</strong><br><sub>E组</sub></td>
-      <td><strong>德国 vs 库拉索</strong><br><sub>Houston Stadium</sub><br><a href="predictions/2026-06-15-0100-germany-curacao.md">中文分析</a> · <a href="predictions/2026-06-15-0100-germany-curacao.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>德国胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
-      <td><strong>德国胜 74%</strong><br><sub>平 16% · 库拉索胜 10%</sub></td>
-      <td align="center"><strong>实际 <code>7-1</code></strong><br><sub>预测 <code>3-0</code></sub></td>
-      <td>主方向命中；比分未中<br><sub>德国进攻效率和库拉索后段崩盘超出预估</sub></td>
+      <td align="center"><strong>07-02</strong><br><strong>00:00</strong></td>
+      <td><strong>英格兰 vs 刚果（金）</strong><br><sub>Atlanta Stadium · 1/16决赛</sub></td>
+      <td>热门强压：DK开盘英格兰 -370；外部对照后续仍偏英格兰，平局赔率有收窄信号。</td>
+      <td>英格兰阵容深度明显；刚果（金）低位和定位球是主要破局风险。亚特兰大封闭/可控环境削弱天气噪声。</td>
+      <td align="center"><strong>英格兰胜</strong><br><sub>68 / 22 / 10</sub></td>
+      <td align="center"><strong>2球</strong><br><sub>次选1球</sub></td>
+      <td align="center"><strong><code>2-0</code></strong></td>
+      <td align="center"><code>1-0</code></td>
+      <td align="center"><strong>入选</strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>06-15</strong><br><strong>04:00</strong><br><sub>F组</sub></td>
-      <td><strong>荷兰 vs 日本</strong><br><sub>Dallas Stadium</sub><br><a href="predictions/2026-06-15-0400-netherlands-japan.md">中文分析</a> · <a href="predictions/2026-06-15-0400-netherlands-japan.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>日本不败观察</strong><br><sub>信心 1/4 · 观察为主</sub></td>
-      <td><strong>荷兰胜 42%</strong><br><sub>平 28% · 日本胜 30%</sub></td>
-      <td align="center"><strong>实际 <code>2-2</code></strong><br><sub>预测 <code>1-1</code></sub></td>
-      <td>不败方向命中；比分接近未中<br><sub>日本末段韧性和进球波动高于预估</sub></td>
+      <td align="center"><strong>07-02</strong><br><strong>04:00</strong></td>
+      <td><strong>比利时 vs 塞内加尔</strong><br><sub>Seattle Stadium · 1/16决赛</sub></td>
+      <td>DK开盘比利时 +115、平 +220、塞内加尔 +270；竞彩比分截屏：2-1 5.80，1-1 5.00。</td>
+      <td>比利时创造力更足但防线回追不稳；塞内加尔身体对抗和转换能力强。西雅图露天场，小时级天气未核验。</td>
+      <td align="center"><strong>比利时不败</strong><br><sub>40 / 31 / 29</sub></td>
+      <td align="center"><strong>2-3球</strong></td>
+      <td align="center"><strong><code>2-1</code></strong></td>
+      <td align="center"><code>1-1</code></td>
+      <td align="center">剔除</td>
     </tr>
     <tr>
-      <td align="center"><strong>06-15</strong><br><strong>07:00</strong><br><sub>E组</sub></td>
-      <td><strong>科特迪瓦 vs 厄瓜多尔</strong><br><sub>Philadelphia Stadium</sub><br><a href="predictions/2026-06-15-0700-cote-divoire-ecuador.md">中文分析</a> · <a href="predictions/2026-06-15-0700-cote-divoire-ecuador.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>1-2 球区间</strong><br><sub>信心 2/4 · 小球倾向</sub></td>
-      <td><strong>科特迪瓦胜 36%</strong><br><sub>平 30% · 厄瓜多尔胜 34%</sub></td>
-      <td align="center"><strong>实际 <code>1-0</code></strong><br><sub>预测 <code>1-1</code></sub></td>
-      <td>小球命中；候选比分命中<br><sub>阿马德-迪亚洛 90 分钟制胜</sub></td>
+      <td align="center"><strong>07-02</strong><br><strong>08:00</strong></td>
+      <td><strong>美国 vs 波黑</strong><br><sub>San Francisco Bay Stadium · 1/16决赛</sub></td>
+      <td>DK开盘美国 -225、平 +360、波黑 +650；竞彩比分截屏：2-0 4.90，2-1 6.00。</td>
+      <td>美国主场和速度优势明显，Pulisic回归预期提升前场效率；波黑更依赖阵地战支点。湾区露天场需注意风。</td>
+      <td align="center"><strong>美国胜</strong><br><sub>62 / 24 / 14</sub></td>
+      <td align="center"><strong>2-3球</strong></td>
+      <td align="center"><strong><code>2-0</code></strong></td>
+      <td align="center"><code>2-1</code></td>
+      <td align="center"><strong>入选</strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>06-15</strong><br><strong>10:00</strong><br><sub>F组</sub></td>
-      <td><strong>瑞典 vs 突尼斯</strong><br><sub>Estadio Monterrey</sub><br><a href="predictions/2026-06-15-1000-sweden-tunisia.md">中文分析</a> · <a href="predictions/2026-06-15-1000-sweden-tunisia.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>瑞典胜弱倾向</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
-      <td><strong>瑞典胜 48%</strong><br><sub>平 29% · 突尼斯胜 23%</sub></td>
-      <td align="center"><strong>实际 <code>5-1</code></strong><br><sub>预测 <code>1-0</code></sub></td>
-      <td>主方向命中；比分未中<br><sub>瑞典转化率和突尼斯防线崩盘被低估</sub></td>
+      <td align="center"><strong>07-03</strong><br><strong>03:00</strong></td>
+      <td><strong>西班牙 vs 奥地利</strong><br><sub>Los Angeles Stadium · 1/16决赛</sub></td>
+      <td>DK开盘西班牙 -320、平 +425、奥地利 +950；晋级方向深压西班牙。</td>
+      <td>西班牙控球和边路天赋占优；Yeremy Pino伤缺，Nico Williams状态需临场确认。洛杉矶午场，球场非全封闭空调。</td>
+      <td align="center"><strong>西班牙胜</strong><br><sub>68 / 21 / 11</sub></td>
+      <td align="center"><strong>2-3球</strong></td>
+      <td align="center"><strong><code>2-0</code></strong></td>
+      <td align="center"><code>2-1</code></td>
+      <td align="center"><strong>入选</strong></td>
     </tr>
     <tr>
-      <td align="center"><strong>06-18</strong><br><strong>01:00</strong><br><sub>K组</sub></td>
-      <td><strong>葡萄牙 vs 刚果（金）</strong><br><sub>Houston Stadium</sub><br><a href="predictions/2026-06-18-0100-portugal-congo-dr.md">中文分析</a> · <a href="predictions/2026-06-18-0100-portugal-congo-dr.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>葡萄牙胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
-      <td><strong>葡萄牙胜 65%</strong><br><sub>平 22% · 刚果（金）胜 13%</sub></td>
-      <td align="center"><strong>实际 <code>1-1</code></strong><br><sub>预测 <code>2-0</code></sub></td>
-      <td>主方向未中；总进球 2 球命中<br><sub>刚果（金）低位纪律和定位球质量被低估</sub></td>
+      <td align="center"><strong>07-03</strong><br><strong>07:00</strong></td>
+      <td><strong>葡萄牙 vs 克罗地亚</strong><br><sub>Toronto Stadium · 1/16决赛</sub></td>
+      <td>DK开盘葡萄牙 -125、平 +265、克罗地亚 +370；小球水位更受支持。</td>
+      <td>葡萄牙牌面略高，克罗地亚淘汰赛控节奏能力强。多伦多夜场露天，节奏更可能偏谨慎。</td>
+      <td align="center"><strong>葡萄牙小优</strong><br><sub>43 / 32 / 25</sub></td>
+      <td align="center"><strong>2球</strong><br><sub>次选3球</sub></td>
+      <td align="center"><strong><code>1-1</code></strong></td>
+      <td align="center"><code>2-1</code></td>
+      <td align="center">剔除</td>
     </tr>
     <tr>
-      <td align="center"><strong>06-18</strong><br><strong>04:00</strong><br><sub>L组</sub></td>
-      <td><strong>英格兰 vs 克罗地亚</strong><br><sub>Dallas Stadium</sub><br><a href="predictions/2026-06-18-0400-england-croatia.md">中文分析</a> · <a href="predictions/2026-06-18-0400-england-croatia.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>英格兰胜弱倾向</strong><br><sub>信心 2/4 · 小胜路径</sub></td>
-      <td><strong>英格兰胜 50%</strong><br><sub>平 29% · 克罗地亚胜 21%</sub></td>
-      <td align="center"><strong>实际 <code>4-2</code></strong><br><sub>预测 <code>1-0</code></sub></td>
-      <td>主方向命中；比分未中<br><sub>英格兰进攻深度和双方防守开放度高于预估</sub></td>
+      <td align="center"><strong>07-03</strong><br><strong>11:00</strong></td>
+      <td><strong>瑞士 vs 阿尔及利亚</strong><br><sub>Vancouver Stadium · 1/16决赛</sub></td>
+      <td>DK开盘瑞士 +105、平 +235、阿尔及利亚 +300；市场倾向瑞士但优势不深。</td>
+      <td>瑞士组织稳定，阿尔及利亚反击和身体对抗有威胁。温哥华屋顶场降低天气变量。</td>
+      <td align="center"><strong>瑞士小优</strong><br><sub>45 / 30 / 25</sub></td>
+      <td align="center"><strong>1-2球</strong></td>
+      <td align="center"><strong><code>1-0</code></strong></td>
+      <td align="center"><code>1-1</code></td>
+      <td align="center">剔除</td>
     </tr>
     <tr>
-      <td align="center"><strong>06-18</strong><br><strong>06:00</strong><br><sub>L组</sub></td>
-      <td><strong>加纳 vs 巴拿马</strong><br><sub>Toronto Stadium</sub><br><a href="predictions/2026-06-18-0600-ghana-panama.md">中文分析</a> · <a href="predictions/2026-06-18-0600-ghana-panama.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>1-2 球区间</strong><br><sub>信心 2/4 · 小球倾向</sub></td>
-      <td><strong>加纳胜 37%</strong><br><sub>平 31% · 巴拿马胜 32%</sub></td>
-      <td align="center"><strong>实际 <code>1-0</code></strong><br><sub>预测 <code>1-1</code></sub></td>
-      <td>小球命中；候选比分命中<br><sub>雨战低节奏，Yirenkyi 95 分钟绝杀</sub></td>
+      <td align="center"><strong>07-04</strong><br><strong>02:00</strong></td>
+      <td><strong>澳大利亚 vs 埃及</strong><br><sub>Dallas Stadium · 1/16决赛</sub></td>
+      <td>未抓到稳定的国外主流胜平负盘，水位信号降权；新闻侧重点是Salah腿筋疑问。</td>
+      <td>澳大利亚防守纪律好但进攻效率一般；埃及个人能力更高，Salah伤情决定上限。达拉斯空调场，天气影响低。</td>
+      <td align="center"><strong>平/埃及不败</strong><br><sub>30 / 34 / 36</sub></td>
+      <td align="center"><strong>1-2球</strong></td>
+      <td align="center"><strong><code>1-1</code></strong></td>
+      <td align="center"><code>0-1</code></td>
+      <td align="center">剔除</td>
     </tr>
     <tr>
-      <td align="center"><strong>06-18</strong><br><strong>10:00</strong><br><sub>K组</sub></td>
-      <td><strong>乌兹别克斯坦 vs 哥伦比亚</strong><br><sub>Mexico City Stadium</sub><br><a href="predictions/2026-06-18-1000-uzbekistan-colombia.md">中文分析</a> · <a href="predictions/2026-06-18-1000-uzbekistan-colombia.json">JSON</a></td>
-      <td align="center"><strong>已赛</strong></td>
-      <td><strong>哥伦比亚胜</strong><br><sub>信心 2/4 · 方向倾向</sub></td>
-      <td><strong>乌兹别克斯坦胜 17%</strong><br><sub>平 27% · 哥伦比亚胜 56%</sub></td>
-      <td align="center"><strong>实际 <code>1-3</code></strong><br><sub>预测 <code>0-1</code></sub></td>
-      <td>主方向命中；比分未中<br><sub>双方进球和哥伦比亚补时第三球超出低比分预期</sub></td>
+      <td align="center"><strong>07-04</strong><br><strong>06:00</strong></td>
+      <td><strong>阿根廷 vs 佛得角</strong><br><sub>Miami Stadium · 1/16决赛</sub></td>
+      <td>DK开盘阿根廷 -650、平 +750、佛得角 +1900；这是本组最深热门盘之一。</td>
+      <td>阿根廷整体压制和终结质量明显更强；佛得角韧性好但长期防守压力大。迈阿密热湿会影响持续压迫。</td>
+      <td align="center"><strong>阿根廷胜</strong><br><sub>73 / 18 / 9</sub></td>
+      <td align="center"><strong>2-3球</strong><br><sub>防4球</sub></td>
+      <td align="center"><strong><code>3-0</code></strong></td>
+      <td align="center"><code>2-0</code></td>
+      <td align="center"><strong>入选</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>07-04</strong><br><strong>09:30</strong></td>
+      <td><strong>哥伦比亚 vs 加纳</strong><br><sub>Kansas City Stadium · 1/16决赛</sub></td>
+      <td>DK开盘哥伦比亚 -185、平 +300、加纳 +600；小球方向更受支持。</td>
+      <td>哥伦比亚前场创造力更强，加纳对抗和转换有威胁。堪萨斯城夜场露天，小时级天气需临场复核。</td>
+      <td align="center"><strong>哥伦比亚胜</strong><br><sub>58 / 27 / 15</sub></td>
+      <td align="center"><strong>1-2球</strong></td>
+      <td align="center"><strong><code>1-0</code></strong></td>
+      <td align="center"><code>2-0</code></td>
+      <td align="center"><strong>入选</strong></td>
     </tr>
   </tbody>
 </table>
 
-<details>
-<summary><strong>English prediction board</strong></summary>
-
-| Kickoff | Fixture | Status | Main lean | 90-min probability | Score | Review / venue note |
-|---|---|---|---|:---:|---|---|
-| **06-15**<br>**01:00**<br><sub>Group E</sub> | **Germany vs Curacao**<br><sub>Houston Stadium</sub><br>[Preview](predictions/2026-06-15-0100-germany-curacao.md) · [JSON](predictions/2026-06-15-0100-germany-curacao.json) | Final | **Germany win** | Germany 74% / Draw 16% / Curacao 10% | Actual <code>7-1</code><br>Predicted <code>3-0</code> | Lean hit; score missed |
-| **06-15**<br>**04:00**<br><sub>Group F</sub> | **Netherlands vs Japan**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-15-0400-netherlands-japan.md) · [JSON](predictions/2026-06-15-0400-netherlands-japan.json) | Final | **Japan non-loss watch** | Netherlands 42% / Draw 28% / Japan 30% | Actual <code>2-2</code><br>Predicted <code>1-1</code> | Non-loss hit; score near miss |
-| **06-15**<br>**07:00**<br><sub>Group E</sub> | **Cote d'Ivoire vs Ecuador**<br><sub>Philadelphia Stadium</sub><br>[Preview](predictions/2026-06-15-0700-cote-divoire-ecuador.md) · [JSON](predictions/2026-06-15-0700-cote-divoire-ecuador.json) | Final | **1-2 goals lean** | Cote d'Ivoire 36% / Draw 30% / Ecuador 34% | Actual <code>1-0</code><br>Predicted <code>1-1</code> | Goals hit; candidate score hit |
-| **06-15**<br>**10:00**<br><sub>Group F</sub> | **Sweden vs Tunisia**<br><sub>Estadio Monterrey</sub><br>[Preview](predictions/2026-06-15-1000-sweden-tunisia.md) · [JSON](predictions/2026-06-15-1000-sweden-tunisia.json) | Final | **Sweden weak win lean** | Sweden 48% / Draw 29% / Tunisia 23% | Actual <code>5-1</code><br>Predicted <code>1-0</code> | Lean hit; score missed |
-| **06-18**<br>**01:00**<br><sub>Group K</sub> | **Portugal vs Congo DR**<br><sub>Houston Stadium</sub><br>[Preview](predictions/2026-06-18-0100-portugal-congo-dr.md) · [JSON](predictions/2026-06-18-0100-portugal-congo-dr.json) | Final | **Portugal win** | Portugal 65% / Draw 22% / Congo DR 13% | Actual <code>1-1</code><br>Predicted <code>2-0</code> | Lean missed; two-goal total hit |
-| **06-18**<br>**04:00**<br><sub>Group L</sub> | **England vs Croatia**<br><sub>Dallas Stadium</sub><br>[Preview](predictions/2026-06-18-0400-england-croatia.md) · [JSON](predictions/2026-06-18-0400-england-croatia.json) | Final | **England weak win lean** | England 50% / Draw 29% / Croatia 21% | Actual <code>4-2</code><br>Predicted <code>1-0</code> | Lean hit; score missed |
-| **06-18**<br>**06:00**<br><sub>Group L</sub> | **Ghana vs Panama**<br><sub>Toronto Stadium</sub><br>[Preview](predictions/2026-06-18-0600-ghana-panama.md) · [JSON](predictions/2026-06-18-0600-ghana-panama.json) | Final | **1-2 goals lean** | Ghana 37% / Draw 31% / Panama 32% | Actual <code>1-0</code><br>Predicted <code>1-1</code> | Goals hit; candidate score hit |
-| **06-18**<br>**10:00**<br><sub>Group K</sub> | **Uzbekistan vs Colombia**<br><sub>Mexico City Stadium</sub><br>[Preview](predictions/2026-06-18-1000-uzbekistan-colombia.md) · [JSON](predictions/2026-06-18-1000-uzbekistan-colombia.json) | Final | **Colombia win** | Uzbekistan 17% / Draw 27% / Colombia 56% | Actual <code>1-3</code><br>Predicted <code>0-1</code> | Lean hit; score missed |
-
-</details>
-
-赛后复盘字段：实际比分、90 分钟胜平负、主方向命中、比分命中、收盘赔率、偏差原因、复盘时间。完整索引见 [predictions/index.md](predictions/index.md)。
+完整看板、JSON 数据和来源索引见 [predictions/index.md](predictions/index.md)。
 
 ---
 

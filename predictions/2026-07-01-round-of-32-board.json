@@ -1,0 +1,1006 @@
+{
+  "generated_at": "2026-07-01T16:46:12+08:00",
+  "timezone": "Asia/Shanghai",
+  "board": {
+    "title": "FIFA World Cup 2026 Round of 32 correct-score board",
+    "settlement": "90 minutes plus stoppage time; extra time and penalties excluded",
+    "odds_policy": "foreign platforms are primary, led by DraftKings opening odds where available; Sporttery screenshot correct-score odds are supplemental for three matches",
+    "stake_note": "Five selected matches with two correct-score candidates each create 32 five-leg combinations; at 2 RMB base stake the ticket is 64 RMB."
+  },
+  "matches": [
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "England",
+        "away_team": "Congo DR",
+        "kickoff_beijing": "2026-07-02T00:00:00+08:00",
+        "kickoff_local": "2026-07-01T12:00:00-04:00",
+        "stadium": "Atlanta Stadium",
+        "city": "Atlanta",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 320,
+        "impact": "low: controlled/retractable-roof venue reduces weather randomness"
+      },
+      "probabilities": {
+        "home_win": 68,
+        "draw": 22,
+        "away_win": 10
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "medium",
+          "single_allowed": null,
+          "reason": "England are the stronger side and overseas comparison prices opened heavily toward England; draw shortened in later external references, so margin is capped."
+        },
+        "handicap": {
+          "line": "-1",
+          "selection": "home_win_or_handicap_draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "The football read supports England, but Congo DR's low block makes a one-goal path live."
+        },
+        "correct_score": [
+          {
+            "score": "2-0",
+            "confidence": "low",
+            "odds": 4.2,
+            "reason": "Best fit for England control and a moderate goal environment."
+          },
+          {
+            "score": "1-0",
+            "confidence": "low",
+            "odds": 5.6,
+            "reason": "Backup for knockout caution and Congo DR resistance."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 goals",
+            "confidence": "medium",
+            "reason": "England edge plus knockout control points to 2-0 or 1-1/1-0 bands."
+          },
+          {
+            "selection": "1 goal",
+            "confidence": "low",
+            "reason": "Relevant if Congo DR defend deep and England do not chase margin."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/home",
+            "confidence": "low",
+            "reason": "England can grow after a cautious first half."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "England 2-0",
+        "odds": 4.2,
+        "rating": 3,
+        "action": "include_in_small_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: England -370, draw +475, Congo DR +1200.",
+          "User Sporttery screenshot correct-score odds: 2-0 at 4.20 and 1-0 at 5.60."
+        ],
+        "team_news": "England depth is the core edge; Congo DR's low block and set pieces are the main upset path.",
+        "mystic_note": "Tarot/gua entertainment tag: control side, low-score win."
+      },
+      "risks": [
+        "Late overseas WDL and total-goals movement not yet refreshed.",
+        "A 1-0 or 1-1 game state is possible if England fail to score early."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas WDL and total-goals movement",
+        "Kickoff-hour weather if roof state changes"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Belgium",
+        "away_team": "Senegal",
+        "kickoff_beijing": "2026-07-02T04:00:00+08:00",
+        "kickoff_local": "2026-07-01T13:00:00-07:00",
+        "stadium": "Seattle Stadium",
+        "city": "Seattle",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 50,
+        "impact": "medium-low: outdoor venue, but no confirmed severe weather signal"
+      },
+      "probabilities": {
+        "home_win": 40,
+        "draw": 31,
+        "away_win": 29
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "Belgium have the creative edge, but Senegal's transition game keeps the 90-minute draw highly live."
+        },
+        "handicap": {
+          "line": "0",
+          "selection": "avoid_handicap",
+          "odds": null,
+          "confidence": "skip",
+          "single_allowed": null,
+          "reason": "The match is too balanced for a clean handicap position without verified price."
+        },
+        "correct_score": [
+          {
+            "score": "2-1",
+            "confidence": "low",
+            "odds": 5.8,
+            "reason": "Belgium creation can edge a two-way scoring match."
+          },
+          {
+            "score": "1-1",
+            "confidence": "low",
+            "odds": 5.0,
+            "reason": "The strongest backup because Senegal can keep the game level over 90 minutes."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 or 3 goals",
+            "confidence": "medium",
+            "reason": "Both sides have scoring routes but knockout caution limits the ceiling."
+          },
+          {
+            "selection": "1 goal",
+            "confidence": "low",
+            "reason": "Only if Belgium possession becomes sterile and Senegal prioritize risk control."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/home",
+            "confidence": "low",
+            "reason": "Belgium can improve after tactical adjustment, but draw/draw remains live."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Belgium 2-1",
+        "odds": 5.8,
+        "rating": 1,
+        "action": "exclude_from_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Belgium +115, draw +220, Senegal +270.",
+          "User Sporttery screenshot correct-score odds: 2-1 at 5.80 and 1-1 at 5.00."
+        ],
+        "team_news": "Belgium's chance creation is offset by defensive recovery risk; Senegal's physicality and transition profile raise volatility.",
+        "mystic_note": "Tarot/gua entertainment tag: repeated balance signal, draw risk."
+      },
+      "risks": [
+        "High 90-minute draw risk.",
+        "Both teams have transition paths, making exact score unstable."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas WDL and total-goals movement",
+        "Kickoff-hour Seattle weather"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "United States",
+        "away_team": "Bosnia and Herzegovina",
+        "kickoff_beijing": "2026-07-02T08:00:00+08:00",
+        "kickoff_local": "2026-07-01T17:00:00-07:00",
+        "stadium": "San Francisco Bay Stadium",
+        "city": "Santa Clara",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 10,
+        "impact": "medium-low: outdoor venue, wind should be rechecked close to kickoff"
+      },
+      "probabilities": {
+        "home_win": 62,
+        "draw": 24,
+        "away_win": 14
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "medium",
+          "single_allowed": null,
+          "reason": "The USA have home context, pace and a stronger market profile; Bosnia's route is a lower-tempo, set-piece game."
+        },
+        "handicap": {
+          "line": "-1",
+          "selection": "home_win_or_handicap_draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "2-0 and 2-1 cover the main read, but a one-goal margin remains credible."
+        },
+        "correct_score": [
+          {
+            "score": "2-0",
+            "confidence": "low",
+            "odds": 4.9,
+            "reason": "Best fit for USA control and a clean-sheet path."
+          },
+          {
+            "score": "2-1",
+            "confidence": "low",
+            "odds": 6.0,
+            "reason": "Backup if Bosnia convert from a set piece or direct attack."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 or 3 goals",
+            "confidence": "medium",
+            "reason": "USA pressure points to two goals, with Bosnia scoring risk keeping 3 live."
+          },
+          {
+            "selection": "1 goal",
+            "confidence": "low",
+            "reason": "Relevant only if Bosnia slow the game and USA finishing is poor."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "home/home",
+            "confidence": "low",
+            "reason": "USA can start fast at home if Pulisic-led attack clicks."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "United States 2-0",
+        "odds": 4.9,
+        "rating": 3,
+        "action": "include_in_small_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: USA -225, draw +360, Bosnia and Herzegovina +650.",
+          "User Sporttery screenshot correct-score odds: 2-0 at 4.90 and 2-1 at 6.00."
+        ],
+        "team_news": "Pulisic return expectation is a positive USA attacking signal.",
+        "mystic_note": "Tarot/gua entertainment tag: home pressure, controlled finish."
+      },
+      "risks": [
+        "If Bosnia score first, USA correct-score structure changes sharply.",
+        "Late overseas WDL and total-goals movement not yet refreshed."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas WDL and total-goals movement",
+        "Kickoff-hour wind at Santa Clara"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Spain",
+        "away_team": "Austria",
+        "kickoff_beijing": "2026-07-03T03:00:00+08:00",
+        "kickoff_local": "2026-07-02T12:00:00-07:00",
+        "stadium": "Los Angeles Stadium",
+        "city": "Inglewood",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 40,
+        "impact": "medium-low: noon kickoff, roofed but not fully climate-controlled environment"
+      },
+      "probabilities": {
+        "home_win": 68,
+        "draw": 21,
+        "away_win": 11
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "medium",
+          "single_allowed": null,
+          "reason": "Spain's opening price and squad quality make them one of the cleanest favorites, though wing injuries cap certainty."
+        },
+        "handicap": {
+          "line": "-1",
+          "selection": "home_win_or_handicap_draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "2-0 is the best path, but 2-1 remains live if Austria press into mistakes."
+        },
+        "correct_score": [
+          {
+            "score": "2-0",
+            "confidence": "low",
+            "reason": "Matches Spain control and Austria limited chance volume."
+          },
+          {
+            "score": "2-1",
+            "confidence": "low",
+            "reason": "Backup for Austria set-piece or transition scoring."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 or 3 goals",
+            "confidence": "medium",
+            "reason": "Spain can create enough for two, but knockout control limits a blowout."
+          },
+          {
+            "selection": "4 goals",
+            "confidence": "low",
+            "reason": "Only if Spain score early and Austria must open up."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "home/home",
+            "confidence": "low",
+            "reason": "Spain can lead early through possession pressure."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Spain 2-0",
+        "odds": null,
+        "rating": 3,
+        "action": "include_in_small_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Spain -320, draw +425, Austria +950.",
+          "DraftKings advance line strongly favored Spain."
+        ],
+        "team_news": "Yeremy Pino injury and Nico Williams fitness are the key Spain availability notes.",
+        "mystic_note": "Tarot/gua entertainment tag: control and territorial advantage."
+      },
+      "risks": [
+        "Spain wing availability can change the margin view.",
+        "No late overseas WDL or total-goals refresh was captured."
+      ],
+      "information_gaps": [
+        "Confirmed Spain wide-player availability",
+        "Late overseas odds movement",
+        "Kickoff-hour Los Angeles weather"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Portugal",
+        "away_team": "Croatia",
+        "kickoff_beijing": "2026-07-03T07:00:00+08:00",
+        "kickoff_local": "2026-07-02T19:00:00-04:00",
+        "stadium": "Toronto Stadium",
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 80,
+        "impact": "medium-low: outdoor evening match, no verified severe-weather signal"
+      },
+      "probabilities": {
+        "home_win": 43,
+        "draw": 32,
+        "away_win": 25
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "Portugal are stronger on paper, but Croatia's knockout control and the under-lean make 1-1 the best score path."
+        },
+        "handicap": {
+          "line": "-1",
+          "selection": "avoid_home_handicap",
+          "odds": null,
+          "confidence": "skip",
+          "single_allowed": null,
+          "reason": "Asking Portugal to clear margin is weaker than the small-edge WDL read."
+        },
+        "correct_score": [
+          {
+            "score": "1-1",
+            "confidence": "low",
+            "reason": "Best fit for Croatia's tempo control and Portugal's stronger finishing."
+          },
+          {
+            "score": "2-1",
+            "confidence": "low",
+            "reason": "Backup if Portugal's individual quality decides the last phase."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 goals",
+            "confidence": "medium",
+            "reason": "Market and matchup both point toward under/low score."
+          },
+          {
+            "selection": "3 goals",
+            "confidence": "low",
+            "reason": "Relevant if the first goal arrives before halftime."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/draw",
+            "confidence": "low",
+            "reason": "Croatia can keep the first hour balanced."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Portugal 1-1 Croatia",
+        "odds": null,
+        "rating": 1,
+        "action": "exclude_from_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Portugal -125, draw +265, Croatia +370.",
+          "Under 2.5 was favored in the opening market context."
+        ],
+        "team_news": "Portugal's higher ceiling is offset by Croatia's tournament-management profile.",
+        "mystic_note": "Tarot/gua entertainment tag: stalemate, late decision."
+      },
+      "risks": [
+        "Ronaldo or Portugal early goal could flip the match to 2-0/3-1.",
+        "Croatia's old-core minutes and physical state need lineup confirmation."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas odds movement",
+        "Kickoff-hour Toronto weather"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Switzerland",
+        "away_team": "Algeria",
+        "kickoff_beijing": "2026-07-03T11:00:00+08:00",
+        "kickoff_local": "2026-07-02T20:00:00-07:00",
+        "stadium": "Vancouver Stadium",
+        "city": "Vancouver",
+        "country": "Canada"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "roofed venue; hourly outdoor weather less material",
+        "altitude_m": 0,
+        "impact": "low: roofed venue lowers weather risk"
+      },
+      "probabilities": {
+        "home_win": 45,
+        "draw": 30,
+        "away_win": 25
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "Switzerland are slightly stronger structurally, but Algeria's counter threat and draw rate make this unsuitable for the 1x5."
+        },
+        "handicap": {
+          "line": "0",
+          "selection": "avoid_handicap",
+          "odds": null,
+          "confidence": "skip",
+          "single_allowed": null,
+          "reason": "A one-goal Swiss win or draw are both live; no margin edge."
+        },
+        "correct_score": [
+          {
+            "score": "1-0",
+            "confidence": "low",
+            "reason": "Fits a compact Swiss control win."
+          },
+          {
+            "score": "1-1",
+            "confidence": "low",
+            "reason": "Backup for Algeria transition or set-piece response."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "1 or 2 goals",
+            "confidence": "medium",
+            "reason": "Under-lean and knockout caution dominate."
+          },
+          {
+            "selection": "3 goals",
+            "confidence": "low",
+            "reason": "Requires a broken second half."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/home",
+            "confidence": "low",
+            "reason": "Switzerland can decide it after a tight first half."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Switzerland 1-0",
+        "odds": null,
+        "rating": 1,
+        "action": "exclude_from_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Switzerland +105, draw +235, Algeria +300.",
+          "Under 2.5 was favored in opening context."
+        ],
+        "team_news": "Swiss stability is the edge; Algeria's directness keeps the draw and 1-1 path alive.",
+        "mystic_note": "Tarot/gua entertainment tag: defensive first, narrow path."
+      },
+      "risks": [
+        "Swiss edge is not deep enough for a long correct-score parlay.",
+        "Algeria can score first through transition."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas odds movement"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Australia",
+        "away_team": "Egypt",
+        "kickoff_beijing": "2026-07-04T02:00:00+08:00",
+        "kickoff_local": "2026-07-03T13:00:00-05:00",
+        "stadium": "Dallas Stadium",
+        "city": "Arlington",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": 22,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "indoor/climate-controlled venue",
+        "altitude_m": 180,
+        "impact": "low: air-conditioned venue reduces Texas heat effect"
+      },
+      "probabilities": {
+        "home_win": 30,
+        "draw": 34,
+        "away_win": 36
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "draw_or_away_win",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "Egypt have the higher individual ceiling, but Salah's hamstring uncertainty and Australia's defensive structure make 1-1 the main score."
+        },
+        "handicap": {
+          "line": "0",
+          "selection": "avoid_handicap",
+          "odds": null,
+          "confidence": "skip",
+          "single_allowed": null,
+          "reason": "No verified price and the match is structurally tight."
+        },
+        "correct_score": [
+          {
+            "score": "1-1",
+            "confidence": "low",
+            "reason": "Best fit for Australia's defensive floor and Egypt's individual quality."
+          },
+          {
+            "score": "0-1",
+            "confidence": "low",
+            "reason": "Backup if Egypt's attack finds one decisive moment."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "1 or 2 goals",
+            "confidence": "medium",
+            "reason": "Both the market gap and matchup point to a low-scoring game."
+          },
+          {
+            "selection": "3 goals",
+            "confidence": "low",
+            "reason": "Requires early goal-state disruption."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/draw",
+            "confidence": "low",
+            "reason": "A cautious first half and low-event second half are plausible."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Australia 1-1 Egypt",
+        "odds": null,
+        "rating": 1,
+        "action": "exclude_from_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "No reliable DraftKings-style match odds were captured for this run.",
+          "Guardian preview flagged Salah hamstring uncertainty and Dallas timing."
+        ],
+        "team_news": "Egypt are unbeaten but Salah's fitness is a material swing factor; Australia are defensively organized but have attacking-efficiency concerns.",
+        "mystic_note": "Tarot/gua entertainment tag: draw-heavy, low scoring."
+      },
+      "risks": [
+        "Salah's final availability can materially change Egypt's scoring ceiling.",
+        "No verified market price lowers confidence."
+      ],
+      "information_gaps": [
+        "Late overseas odds movement",
+        "Comparable overseas WDL market",
+        "Confirmed Salah status"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Argentina",
+        "away_team": "Cabo Verde",
+        "kickoff_beijing": "2026-07-04T06:00:00+08:00",
+        "kickoff_local": "2026-07-03T18:00:00-04:00",
+        "stadium": "Miami Stadium",
+        "city": "Miami Gardens",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "heat and humidity risk; hourly weather unconfirmed",
+        "altitude_m": 2,
+        "impact": "medium: heat/humidity can reduce pressing duration but favorite quality remains decisive"
+      },
+      "probabilities": {
+        "home_win": 73,
+        "draw": 18,
+        "away_win": 9
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "medium",
+          "single_allowed": null,
+          "reason": "Argentina's opening price, scoring form and squad quality create the strongest favorite profile on the board."
+        },
+        "handicap": {
+          "line": "-2",
+          "selection": "home_win_or_handicap_draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "3-0 is live, but heat and knockout control make 2-0 a strong backup."
+        },
+        "correct_score": [
+          {
+            "score": "3-0",
+            "confidence": "low",
+            "reason": "Best fit for Argentina's quality gap and Cape Verde's long defensive workload."
+          },
+          {
+            "score": "2-0",
+            "confidence": "low",
+            "reason": "Backup if Argentina manage energy after securing control."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "2 or 3 goals",
+            "confidence": "medium",
+            "reason": "Favorite dominance with knockout management."
+          },
+          {
+            "selection": "4 goals",
+            "confidence": "low",
+            "reason": "Only if Argentina score early and Cape Verde open up."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "home/home",
+            "confidence": "low",
+            "reason": "Argentina can establish control before halftime."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Argentina 3-0",
+        "odds": null,
+        "rating": 4,
+        "action": "include_in_small_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Argentina -650, draw +750, Cabo Verde +1900.",
+          "Argentina were the deepest favorite among the selected 1x5 candidates."
+        ],
+        "team_news": "Argentina's finishing quality and Messi-led attack are the key edge; Cape Verde's historic run adds caution but not enough to overturn the read.",
+        "mystic_note": "Tarot/gua entertainment tag: strong favorite, clean progression."
+      },
+      "risks": [
+        "Miami heat and humidity can reduce second-half tempo.",
+        "If Argentina rotate heavily after early lead, 2-0 becomes stronger than 3-0."
+      ],
+      "information_gaps": [
+        "Confirmed Argentina starting XI",
+        "Late overseas odds movement",
+        "Kickoff-hour Miami heat index"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    },
+    {
+      "generated_at": "2026-07-01T16:46:12+08:00",
+      "timezone": "Asia/Shanghai",
+      "match": {
+        "competition": "FIFA World Cup 2026",
+        "stage": "Round of 32",
+        "home_team": "Colombia",
+        "away_team": "Ghana",
+        "kickoff_beijing": "2026-07-04T09:30:00+08:00",
+        "kickoff_local": "2026-07-03T20:30:00-05:00",
+        "stadium": "Kansas City Stadium",
+        "city": "Kansas City",
+        "country": "United States"
+      },
+      "venue_weather": {
+        "temperature_c": null,
+        "humidity_pct": null,
+        "wind_kph": null,
+        "precipitation": "hourly weather unconfirmed",
+        "altitude_m": 270,
+        "impact": "medium-low: outdoor evening match, storm/heat should be checked close to kickoff"
+      },
+      "probabilities": {
+        "home_win": 58,
+        "draw": 27,
+        "away_win": 15
+      },
+      "markets": {
+        "win_draw_loss": {
+          "selection": "home_win",
+          "odds": null,
+          "confidence": "medium",
+          "single_allowed": null,
+          "reason": "Colombia's market profile and chance creation give them a clear but not extreme edge."
+        },
+        "handicap": {
+          "line": "-1",
+          "selection": "home_win_or_handicap_draw",
+          "odds": null,
+          "confidence": "low",
+          "single_allowed": null,
+          "reason": "1-0 and 2-0 are the primary score bands; asking for a larger margin is unnecessary."
+        },
+        "correct_score": [
+          {
+            "score": "1-0",
+            "confidence": "low",
+            "reason": "Best fit for Colombia edge and Ghana's ability to keep the match physical."
+          },
+          {
+            "score": "2-0",
+            "confidence": "low",
+            "reason": "Backup if Colombia score first and control transitions."
+          }
+        ],
+        "total_goals": [
+          {
+            "selection": "1 or 2 goals",
+            "confidence": "medium",
+            "reason": "Opening market leaned under and the matchup points to Colombia control without a shootout."
+          },
+          {
+            "selection": "3 goals",
+            "confidence": "low",
+            "reason": "Relevant if Ghana chase after conceding early."
+          }
+        ],
+        "half_full_time": [
+          {
+            "selection": "draw/home",
+            "confidence": "low",
+            "reason": "Colombia can wear Ghana down after a balanced first half."
+          }
+        ]
+      },
+      "top_pick": {
+        "play": "correct_score",
+        "selection": "Colombia 1-0",
+        "odds": null,
+        "rating": 3,
+        "action": "include_in_small_1x5_score_ticket"
+      },
+      "evidence": {
+        "market_data": [
+          "DraftKings opening 90-minute moneyline: Colombia -185, draw +300, Ghana +600.",
+          "Under 2.5 was favored in the opening context."
+        ],
+        "team_news": "Colombia's chance creation is the edge; Ghana's physicality and transition threat are the upset path.",
+        "mystic_note": "Tarot/gua entertainment tag: narrow favorite, low-score lock."
+      },
+      "risks": [
+        "Ghana can turn the match into a physical transition game.",
+        "Kansas City outdoor weather remains an unverified match-day variable."
+      ],
+      "information_gaps": [
+        "Confirmed starting lineups",
+        "Late overseas odds movement",
+        "Kickoff-hour Kansas City weather"
+      ],
+      "responsible_note": "预测只用于赛前分析，不承诺收益；不要追损，也不要投入无法承受损失的资金。"
+    }
+  ],
+  "summary_table": [
+    {
+      "match": "Argentina vs Cabo Verde",
+      "kickoff_beijing": "2026-07-04T06:00:00+08:00",
+      "top_pick": "Argentina 3-0",
+      "odds": null,
+      "rating": 4,
+      "one_line_reason": "Deepest favorite profile and cleanest score-margin path."
+    },
+    {
+      "match": "Spain vs Austria",
+      "kickoff_beijing": "2026-07-03T03:00:00+08:00",
+      "top_pick": "Spain 2-0",
+      "odds": null,
+      "rating": 3,
+      "one_line_reason": "Strong market edge and control-game profile."
+    },
+    {
+      "match": "United States vs Bosnia and Herzegovina",
+      "kickoff_beijing": "2026-07-02T08:00:00+08:00",
+      "top_pick": "United States 2-0",
+      "odds": 4.9,
+      "rating": 3,
+      "one_line_reason": "Home context and favorable opening price support a two-goal USA band."
+    },
+    {
+      "match": "England vs Congo DR",
+      "kickoff_beijing": "2026-07-02T00:00:00+08:00",
+      "top_pick": "England 2-0",
+      "odds": 4.2,
+      "rating": 3,
+      "one_line_reason": "England are a strong favorite, with 2-0 better than chasing a blowout."
+    },
+    {
+      "match": "Colombia vs Ghana",
+      "kickoff_beijing": "2026-07-04T09:30:00+08:00",
+      "top_pick": "Colombia 1-0",
+      "odds": null,
+      "rating": 3,
+      "one_line_reason": "Colombia edge plus under-lean makes 1-0/2-0 the clean score pair."
+    }
+  ],
+  "parlay": {
+    "recommendation": "1x5 correct-score ticket, small stake only",
+    "legs": [
+      {
+        "match": "Argentina vs Cabo Verde",
+        "play": "correct_score",
+        "selection": "3-0 / 2-0",
+        "odds": null
+      },
+      {
+        "match": "Spain vs Austria",
+        "play": "correct_score",
+        "selection": "2-0 / 2-1",
+        "odds": null
+      },
+      {
+        "match": "United States vs Bosnia and Herzegovina",
+        "play": "correct_score",
+        "selection": "2-0 / 2-1",
+        "odds": null
+      },
+      {
+        "match": "England vs Congo DR",
+        "play": "correct_score",
+        "selection": "2-0 / 1-0",
+        "odds": null
+      },
+      {
+        "match": "Colombia vs Ghana",
+        "play": "correct_score",
+        "selection": "1-0 / 2-0",
+        "odds": null
+      }
+    ],
+    "combined_odds": null,
+    "confidence": "low",
+    "risk_note": "Correct-score parlays are high variance; five-leg score tickets multiply every leg's uncertainty. Keep stake small and do not chase."
+  }
+}
