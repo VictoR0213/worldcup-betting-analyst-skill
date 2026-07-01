@@ -2,7 +2,7 @@
 
 # FIFA World Cup 2026 · 1/16 决赛预测看板
 
-<strong>90分钟胜平负 · 总进球数 · 主/副候选比分 · 1串5比分票面</strong>
+<strong>90分钟胜平负 · 总进球数 · 主/副候选比分 · 多维度赛前看板</strong>
 
 <br>
 
@@ -15,12 +15,6 @@
 
 > **读表口径**：所有胜平负和比分均按 90 分钟含伤停计算，不含加时和点球。水位以 DraftKings 等国外平台开盘/对照盘为主；你截图里已有的竞彩比分赔率仅作为补充记录。塔罗/卦象只作为娱乐型情绪标签，不进入主概率权重。
 
-## 1串5 主票
-
-| 预算 | 下法 | 注数 | 主线比分 | 风险 |
-|---:|---|---:|---|---|
-| 64 元 | 5 场每场 2 个比分，只勾 5 关 | 32 注 | 阿根廷 3-0 × 西班牙 2-0 × 美国 2-0 × 英格兰 2-0 × 哥伦比亚 1-0 | 比分串关方差极高，适合小额，不建议加倍 |
-
 ## 横向看板
 
 <table>
@@ -28,114 +22,124 @@
     <tr>
       <th align="center">北京时间</th>
       <th align="left">比赛 / 场馆</th>
-      <th align="left">水位信号</th>
-      <th align="left">阵容伤停 + 天气场地</th>
+      <th align="left">水位</th>
+      <th align="left">阵容 / 伤停</th>
+      <th align="left">天气 / 场馆</th>
+      <th align="left">历史 / 状态</th>
+      <th align="left">塔罗 / 卦象</th>
       <th align="center">胜平负</th>
       <th align="center">总进球</th>
-      <th align="center">主比分</th>
-      <th align="center">副比分</th>
-      <th align="center">1串5</th>
+      <th align="center">比分</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><strong>07-02</strong><br><strong>00:00</strong></td>
       <td><strong>英格兰 vs 刚果（金）</strong><br><sub>Atlanta Stadium · 1/16决赛</sub></td>
-      <td>热门强压：DK开盘英格兰 -370；外部对照后续仍偏英格兰，平局赔率有收窄信号。</td>
-      <td>英格兰阵容深度明显；刚果（金）低位和定位球是主要破局风险。亚特兰大封闭/可控环境削弱天气噪声。</td>
+      <td>DK开盘英格兰 -370，热门压得很深；后续对照仍偏英格兰，平局收窄提示低比分。</td>
+      <td>英格兰深度和替补质量更好；刚果（金）主要靠低位、防空和定位球。</td>
+      <td>亚特兰大可控场馆，天气随机性低；中午球时对节奏影响有限。</td>
+      <td>英格兰小组赛攻击层次更稳定；刚果（金）淘汰赛会优先降节奏。</td>
+      <td>牌面偏“皇帝/土象”：强队控局；卦象偏守成，小胜优于大胜。</td>
       <td align="center"><strong>英格兰胜</strong><br><sub>68 / 22 / 10</sub></td>
       <td align="center"><strong>2球</strong><br><sub>次选1球</sub></td>
-      <td align="center"><strong><code>2-0</code></strong></td>
-      <td align="center"><code>1-0</code></td>
-      <td align="center"><strong>入选</strong></td>
+      <td align="center"><strong><code>2-0</code></strong><br><sub>副 <code>1-0</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-02</strong><br><strong>04:00</strong></td>
       <td><strong>比利时 vs 塞内加尔</strong><br><sub>Seattle Stadium · 1/16决赛</sub></td>
-      <td>DK开盘比利时 +115、平 +220、塞内加尔 +270；竞彩比分截屏：2-1 5.80，1-1 5.00。</td>
-      <td>比利时创造力更足但防线回追不稳；塞内加尔身体对抗和转换能力强。西雅图露天场，小时级天气未核验。</td>
+      <td>DK开盘比利时 +115、平 +220、塞内加尔 +270；市场优势很浅，平局权重高。</td>
+      <td>比利时创造力更足但防线回追慢；塞内加尔身体、转换和边路冲击更危险。</td>
+      <td>西雅图露天场，小时级天气未核验；若有雨风会进一步放大对抗和偶然性。</td>
+      <td>两队风格都能制造进球，但淘汰赛会限制冒险；更像均势拉扯。</td>
+      <td>牌面偏“节制/兑卦”：互有机会但不易拉开，平局信号明显。</td>
       <td align="center"><strong>比利时不败</strong><br><sub>40 / 31 / 29</sub></td>
       <td align="center"><strong>2-3球</strong></td>
-      <td align="center"><strong><code>2-1</code></strong></td>
-      <td align="center"><code>1-1</code></td>
-      <td align="center">剔除</td>
+      <td align="center"><strong><code>2-1</code></strong><br><sub>副 <code>1-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-02</strong><br><strong>08:00</strong></td>
       <td><strong>美国 vs 波黑</strong><br><sub>San Francisco Bay Stadium · 1/16决赛</sub></td>
-      <td>DK开盘美国 -225、平 +360、波黑 +650；竞彩比分截屏：2-0 4.90，2-1 6.00。</td>
-      <td>美国主场和速度优势明显，Pulisic回归预期提升前场效率；波黑更依赖阵地战支点。湾区露天场需注意风。</td>
+      <td>DK开盘美国 -225、平 +360、波黑 +650；主胜水位优势清晰但非碾压。</td>
+      <td>美国主场速度优势明显，Pulisic回归预期利好；波黑更依赖支点和定位球。</td>
+      <td>湾区露天场需临场看风；风大时长传、传中和定位球质量会受影响。</td>
+      <td>美国小组赛推进速度和压迫更好；波黑若先失球会被迫提高阵线。</td>
+      <td>牌面偏“战车/火”：主队主动推进；卦象偏先手，防一球丢失。</td>
       <td align="center"><strong>美国胜</strong><br><sub>62 / 24 / 14</sub></td>
       <td align="center"><strong>2-3球</strong></td>
-      <td align="center"><strong><code>2-0</code></strong></td>
-      <td align="center"><code>2-1</code></td>
-      <td align="center"><strong>入选</strong></td>
+      <td align="center"><strong><code>2-0</code></strong><br><sub>副 <code>2-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-03</strong><br><strong>03:00</strong></td>
       <td><strong>西班牙 vs 奥地利</strong><br><sub>Los Angeles Stadium · 1/16决赛</sub></td>
-      <td>DK开盘西班牙 -320、平 +425、奥地利 +950；晋级方向深压西班牙。</td>
-      <td>西班牙控球和边路天赋占优；Yeremy Pino伤缺，Nico Williams状态需临场确认。洛杉矶午场，球场非全封闭空调。</td>
+      <td>DK开盘西班牙 -320、平 +425、奥地利 +950；晋级方向也深压西班牙。</td>
+      <td>西班牙控球和边路天赋占优；Pino伤缺，Nico Williams状态需临场确认。</td>
+      <td>洛杉矶午场，球场有屋面但非全封闭空调；热感会影响连续压迫。</td>
+      <td>西班牙小组赛控场质量强；奥地利压迫有强度但身后空间可被利用。</td>
+      <td>牌面偏“太阳/离火”：强队清晰；卦象提示边路打开后控分。</td>
       <td align="center"><strong>西班牙胜</strong><br><sub>68 / 21 / 11</sub></td>
       <td align="center"><strong>2-3球</strong></td>
-      <td align="center"><strong><code>2-0</code></strong></td>
-      <td align="center"><code>2-1</code></td>
-      <td align="center"><strong>入选</strong></td>
+      <td align="center"><strong><code>2-0</code></strong><br><sub>副 <code>2-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-03</strong><br><strong>07:00</strong></td>
       <td><strong>葡萄牙 vs 克罗地亚</strong><br><sub>Toronto Stadium · 1/16决赛</sub></td>
-      <td>DK开盘葡萄牙 -125、平 +265、克罗地亚 +370；小球水位更受支持。</td>
-      <td>葡萄牙牌面略高，克罗地亚淘汰赛控节奏能力强。多伦多夜场露天，节奏更可能偏谨慎。</td>
+      <td>DK开盘葡萄牙 -125、平 +265、克罗地亚 +370；葡萄牙小优，小球更受支持。</td>
+      <td>葡萄牙前场个人能力更强；克罗地亚老将控节奏，阵地战经验足。</td>
+      <td>多伦多夜场露天，气候相对温和；场地更利于克罗地亚拖慢回合。</td>
+      <td>克罗地亚淘汰赛经验会抬高平局概率；葡萄牙若久攻不下风险上升。</td>
+      <td>牌面偏“隐士/艮卦”：慢、稳、僵持；后段才可能分胜负。</td>
       <td align="center"><strong>葡萄牙小优</strong><br><sub>43 / 32 / 25</sub></td>
       <td align="center"><strong>2球</strong><br><sub>次选3球</sub></td>
-      <td align="center"><strong><code>1-1</code></strong></td>
-      <td align="center"><code>2-1</code></td>
-      <td align="center">剔除</td>
+      <td align="center"><strong><code>1-1</code></strong><br><sub>副 <code>2-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-03</strong><br><strong>11:00</strong></td>
       <td><strong>瑞士 vs 阿尔及利亚</strong><br><sub>Vancouver Stadium · 1/16决赛</sub></td>
-      <td>DK开盘瑞士 +105、平 +235、阿尔及利亚 +300；市场倾向瑞士但优势不深。</td>
-      <td>瑞士组织稳定，阿尔及利亚反击和身体对抗有威胁。温哥华屋顶场降低天气变量。</td>
+      <td>DK开盘瑞士 +105、平 +235、阿尔及利亚 +300；瑞士优势存在但不深。</td>
+      <td>瑞士组织稳定、失误少；阿尔及利亚反击、身体对抗和定位球有威胁。</td>
+      <td>温哥华屋顶场降低雨风变量；中性环境更利于技术稳定的一方。</td>
+      <td>瑞士常规时间更稳，阿尔及利亚韧性强；1球差或平局都合理。</td>
+      <td>牌面偏“正义/坤土”：秩序和防守优先，比分不宜放大。</td>
       <td align="center"><strong>瑞士小优</strong><br><sub>45 / 30 / 25</sub></td>
       <td align="center"><strong>1-2球</strong></td>
-      <td align="center"><strong><code>1-0</code></strong></td>
-      <td align="center"><code>1-1</code></td>
-      <td align="center">剔除</td>
+      <td align="center"><strong><code>1-0</code></strong><br><sub>副 <code>1-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-04</strong><br><strong>02:00</strong></td>
       <td><strong>澳大利亚 vs 埃及</strong><br><sub>Dallas Stadium · 1/16决赛</sub></td>
-      <td>未抓到稳定的国外主流胜平负盘，水位信号降权；新闻侧重点是Salah腿筋疑问。</td>
-      <td>澳大利亚防守纪律好但进攻效率一般；埃及个人能力更高，Salah伤情决定上限。达拉斯空调场，天气影响低。</td>
+      <td>未抓到稳定国外主流胜平负盘，水位信号降权；只能用新闻和结构判断。</td>
+      <td>澳大利亚防守纪律好但进攻效率一般；埃及上限取决于Salah腿筋状态。</td>
+      <td>达拉斯空调场，天气影响低；午场热度被场馆条件大幅削弱。</td>
+      <td>埃及小组赛不败韧性强；澳大利亚更像低位抗压后争定位球。</td>
+      <td>牌面偏“月亮/坎水”：信息不清、节奏偏低，平局信号最重。</td>
       <td align="center"><strong>平/埃及不败</strong><br><sub>30 / 34 / 36</sub></td>
       <td align="center"><strong>1-2球</strong></td>
-      <td align="center"><strong><code>1-1</code></strong></td>
-      <td align="center"><code>0-1</code></td>
-      <td align="center">剔除</td>
+      <td align="center"><strong><code>1-1</code></strong><br><sub>副 <code>0-1</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-04</strong><br><strong>06:00</strong></td>
       <td><strong>阿根廷 vs 佛得角</strong><br><sub>Miami Stadium · 1/16决赛</sub></td>
-      <td>DK开盘阿根廷 -650、平 +750、佛得角 +1900；这是本组最深热门盘之一。</td>
-      <td>阿根廷整体压制和终结质量明显更强；佛得角韧性好但长期防守压力大。迈阿密热湿会影响持续压迫。</td>
+      <td>DK开盘阿根廷 -650、平 +750、佛得角 +1900；本批最深热门盘之一。</td>
+      <td>阿根廷压制、终结和替补深度明显更强；佛得角以低位韧性求拖延。</td>
+      <td>迈阿密热湿会影响持续压迫；领先后阿根廷可能管理节奏。</td>
+      <td>阿根廷小组赛表现最完整；佛得角历史性晋级但攻坚火力有限。</td>
+      <td>牌面偏“世界/乾卦”：强队完成度高；热湿条件提示控胜不狂攻。</td>
       <td align="center"><strong>阿根廷胜</strong><br><sub>73 / 18 / 9</sub></td>
       <td align="center"><strong>2-3球</strong><br><sub>防4球</sub></td>
-      <td align="center"><strong><code>3-0</code></strong></td>
-      <td align="center"><code>2-0</code></td>
-      <td align="center"><strong>入选</strong></td>
+      <td align="center"><strong><code>3-0</code></strong><br><sub>副 <code>2-0</code></sub></td>
     </tr>
     <tr>
       <td align="center"><strong>07-04</strong><br><strong>09:30</strong></td>
       <td><strong>哥伦比亚 vs 加纳</strong><br><sub>Kansas City Stadium · 1/16决赛</sub></td>
-      <td>DK开盘哥伦比亚 -185、平 +300、加纳 +600；小球方向更受支持。</td>
-      <td>哥伦比亚前场创造力更强，加纳对抗和转换有威胁。堪萨斯城夜场露天，小时级天气需临场复核。</td>
+      <td>DK开盘哥伦比亚 -185、平 +300、加纳 +600；哥伦比亚优势清晰，小球更稳。</td>
+      <td>哥伦比亚前场创造力更强；加纳对抗、速度和转换会制造反击风险。</td>
+      <td>堪萨斯城夜场露天，需临场复核热、风和雷雨；无极端信号时影响中低。</td>
+      <td>哥伦比亚小组阶段进攻效率更好；加纳若落后会让比赛变开放。</td>
+      <td>牌面偏“力量/震卦”：身体对抗强，但主方向仍偏技术优势方。</td>
       <td align="center"><strong>哥伦比亚胜</strong><br><sub>58 / 27 / 15</sub></td>
       <td align="center"><strong>1-2球</strong></td>
-      <td align="center"><strong><code>1-0</code></strong></td>
-      <td align="center"><code>2-0</code></td>
-      <td align="center"><strong>入选</strong></td>
+      <td align="center"><strong><code>1-0</code></strong><br><sub>副 <code>2-0</code></sub></td>
     </tr>
   </tbody>
 </table>

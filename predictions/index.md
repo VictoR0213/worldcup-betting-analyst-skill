@@ -16,29 +16,17 @@ Automation window:
 
 ## Active Predictions
 
-| Beijing time | Fixture | Venue | WDL lean | 90-min probability | Total goals | Main score | Backup score | Parlay status |
-|---|---|---|---|---:|---|---:|---:|---|
-| 2026-07-02 00:00 | England vs Congo DR | Atlanta Stadium | England win | 68 / 22 / 10 | 2 goals | **2-0** | 1-0 | Included |
-| 2026-07-02 04:00 | Belgium vs Senegal | Seattle Stadium | Belgium non-loss | 40 / 31 / 29 | 2-3 goals | **2-1** | 1-1 | Excluded |
-| 2026-07-02 08:00 | USA vs Bosnia and Herzegovina | San Francisco Bay Stadium | USA win | 62 / 24 / 14 | 2-3 goals | **2-0** | 2-1 | Included |
-| 2026-07-03 03:00 | Spain vs Austria | Los Angeles Stadium | Spain win | 68 / 21 / 11 | 2-3 goals | **2-0** | 2-1 | Included |
-| 2026-07-03 07:00 | Portugal vs Croatia | Toronto Stadium | Portugal slight edge | 43 / 32 / 25 | 2 goals | **1-1** | 2-1 | Excluded |
-| 2026-07-03 11:00 | Switzerland vs Algeria | Vancouver Stadium | Switzerland slight edge | 45 / 30 / 25 | 1-2 goals | **1-0** | 1-1 | Excluded |
-| 2026-07-04 02:00 | Australia vs Egypt | Dallas Stadium | Draw/Egypt non-loss | 30 / 34 / 36 | 1-2 goals | **1-1** | 0-1 | Excluded |
-| 2026-07-04 06:00 | Argentina vs Cabo Verde | Miami Stadium | Argentina win | 73 / 18 / 9 | 2-3 goals | **3-0** | 2-0 | Included |
-| 2026-07-04 09:30 | Colombia vs Ghana | Kansas City Stadium | Colombia win | 58 / 27 / 15 | 1-2 goals | **1-0** | 2-0 | Included |
-
-## 1x5 Score Ticket
-
-| Leg | Fixture | Main | Backup |
-|---:|---|---:|---:|
-| 1 | Argentina vs Cabo Verde | **3-0** | 2-0 |
-| 2 | Spain vs Austria | **2-0** | 2-1 |
-| 3 | USA vs Bosnia and Herzegovina | **2-0** | 2-1 |
-| 4 | England vs Congo DR | **2-0** | 1-0 |
-| 5 | Colombia vs Ghana | **1-0** | 2-0 |
-
-If all five matches are selected with two correct-score candidates and only the 5-leg pass is checked, the ticket has 32 combinations. In a 2 RMB base stake format, this is 64 RMB.
+| Beijing time | Fixture | Venue | WDL lean | 90-min probability | Total goals | Main score | Backup score |
+|---|---|---|---|---:|---|---:|---:|
+| 2026-07-02 00:00 | England vs Congo DR | Atlanta Stadium | England win | 68 / 22 / 10 | 2 goals | **2-0** | 1-0 |
+| 2026-07-02 04:00 | Belgium vs Senegal | Seattle Stadium | Belgium non-loss | 40 / 31 / 29 | 2-3 goals | **2-1** | 1-1 |
+| 2026-07-02 08:00 | USA vs Bosnia and Herzegovina | San Francisco Bay Stadium | USA win | 62 / 24 / 14 | 2-3 goals | **2-0** | 2-1 |
+| 2026-07-03 03:00 | Spain vs Austria | Los Angeles Stadium | Spain win | 68 / 21 / 11 | 2-3 goals | **2-0** | 2-1 |
+| 2026-07-03 07:00 | Portugal vs Croatia | Toronto Stadium | Portugal slight edge | 43 / 32 / 25 | 2 goals | **1-1** | 2-1 |
+| 2026-07-03 11:00 | Switzerland vs Algeria | Vancouver Stadium | Switzerland slight edge | 45 / 30 / 25 | 1-2 goals | **1-0** | 1-1 |
+| 2026-07-04 02:00 | Australia vs Egypt | Dallas Stadium | Draw/Egypt non-loss | 30 / 34 / 36 | 1-2 goals | **1-1** | 0-1 |
+| 2026-07-04 06:00 | Argentina vs Cabo Verde | Miami Stadium | Argentina win | 73 / 18 / 9 | 2-3 goals | **3-0** | 2-0 |
+| 2026-07-04 09:30 | Colombia vs Ghana | Kansas City Stadium | Colombia win | 58 / 27 / 15 | 1-2 goals | **1-0** | 2-0 |
 
 ## Evidence Policy Notes
 
@@ -46,7 +34,7 @@ If all five matches are selected with two correct-score candidates and only the 
 - Sporttery correct-score odds are retained only as supplemental screenshot evidence for England vs Congo DR, Belgium vs Senegal, and USA vs Bosnia and Herzegovina.
 - Australia vs Egypt remains downgraded because a stable overseas WDL market snapshot was not captured in this run.
 - Weather notes use venue type and available public context; exact kickoff-hour weather remains an information gap for several outdoor venues.
-- Correct-score picks are high-variance references. Parlays multiply risk and should stay small.
+- Correct-score picks are high-variance references, not certainty.
 
 ## Source Snapshot
 

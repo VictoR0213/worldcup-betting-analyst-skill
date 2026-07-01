@@ -5,7 +5,7 @@
     "title": "FIFA World Cup 2026 Round of 32 correct-score board",
     "settlement": "90 minutes plus stoppage time; extra time and penalties excluded",
     "odds_policy": "foreign platforms are primary, led by DraftKings opening odds where available; Sporttery screenshot correct-score odds are supplemental for three matches",
-    "stake_note": "Five selected matches with two correct-score candidates each create 32 five-leg combinations; at 2 RMB base stake the ticket is 64 RMB."
+    "public_note": "Public board shows match-level forecasts only; no combined selection is displayed."
   },
   "matches": [
     {
@@ -90,7 +90,7 @@
         "selection": "England 2-0",
         "odds": 4.2,
         "rating": 3,
-        "action": "include_in_small_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -193,7 +193,7 @@
         "selection": "Belgium 2-1",
         "odds": 5.8,
         "rating": 1,
-        "action": "exclude_from_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -296,7 +296,7 @@
         "selection": "United States 2-0",
         "odds": 4.9,
         "rating": 3,
-        "action": "include_in_small_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -397,7 +397,7 @@
         "selection": "Spain 2-0",
         "odds": null,
         "rating": 3,
-        "action": "include_in_small_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -498,7 +498,7 @@
         "selection": "Portugal 1-1 Croatia",
         "odds": null,
         "rating": 1,
-        "action": "exclude_from_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -552,7 +552,7 @@
           "odds": null,
           "confidence": "low",
           "single_allowed": null,
-          "reason": "Switzerland are slightly stronger structurally, but Algeria's counter threat and draw rate make this unsuitable for the 1x5."
+          "reason": "Switzerland are slightly stronger structurally, but Algeria's counter threat and draw rate keep the forecast volatile."
         },
         "handicap": {
           "line": "0",
@@ -599,7 +599,7 @@
         "selection": "Switzerland 1-0",
         "odds": null,
         "rating": 1,
-        "action": "exclude_from_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -610,7 +610,7 @@
         "mystic_note": "Tarot/gua entertainment tag: defensive first, narrow path."
       },
       "risks": [
-        "Swiss edge is not deep enough for a long correct-score parlay.",
+        "Swiss edge is not deep enough for a long correct-score combination.",
         "Algeria can score first through transition."
       ],
       "information_gaps": [
@@ -699,7 +699,7 @@
         "selection": "Australia 1-1 Egypt",
         "odds": null,
         "rating": 1,
-        "action": "exclude_from_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -800,12 +800,12 @@
         "selection": "Argentina 3-0",
         "odds": null,
         "rating": 4,
-        "action": "include_in_small_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
           "DraftKings opening 90-minute moneyline: Argentina -650, draw +750, Cabo Verde +1900.",
-          "Argentina were the deepest favorite among the selected 1x5 candidates."
+          "Argentina were the deepest favorite among this Round of 32 slate."
         ],
         "team_news": "Argentina's finishing quality and Messi-led attack are the key edge; Cape Verde's historic run adds caution but not enough to overturn the read.",
         "mystic_note": "Tarot/gua entertainment tag: strong favorite, clean progression."
@@ -901,7 +901,7 @@
         "selection": "Colombia 1-0",
         "odds": null,
         "rating": 3,
-        "action": "include_in_small_1x5_score_ticket"
+        "action": "match_forecast_only"
       },
       "evidence": {
         "market_data": [
@@ -966,41 +966,10 @@
     }
   ],
   "parlay": {
-    "recommendation": "1x5 correct-score ticket, small stake only",
-    "legs": [
-      {
-        "match": "Argentina vs Cabo Verde",
-        "play": "correct_score",
-        "selection": "3-0 / 2-0",
-        "odds": null
-      },
-      {
-        "match": "Spain vs Austria",
-        "play": "correct_score",
-        "selection": "2-0 / 2-1",
-        "odds": null
-      },
-      {
-        "match": "United States vs Bosnia and Herzegovina",
-        "play": "correct_score",
-        "selection": "2-0 / 2-1",
-        "odds": null
-      },
-      {
-        "match": "England vs Congo DR",
-        "play": "correct_score",
-        "selection": "2-0 / 1-0",
-        "odds": null
-      },
-      {
-        "match": "Colombia vs Ghana",
-        "play": "correct_score",
-        "selection": "1-0 / 2-0",
-        "odds": null
-      }
-    ],
+    "recommendation": "not_displayed_on_public_board",
+    "legs": [],
     "combined_odds": null,
-    "confidence": "low",
-    "risk_note": "Correct-score parlays are high variance; five-leg score tickets multiply every leg's uncertainty. Keep stake small and do not chase."
+    "confidence": "skip",
+    "risk_note": "Public board intentionally omits combined selection details; correct-score forecasts remain high variance."
   }
 }
